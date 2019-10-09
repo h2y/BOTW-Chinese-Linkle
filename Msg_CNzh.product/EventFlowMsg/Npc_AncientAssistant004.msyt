@@ -86,7 +86,7 @@ entries:
           unknown:
             - 0
             - 10
-      - text: 林克先生，没事的！
+      - text: 林可先生，没事的！
       - control:
           kind: pause
           length: longer
@@ -99,7 +99,7 @@ entries:
           unknown:
             - 0
             - 11
-      - text: 林克先生如此亲切，
+      - text: 林可先生如此亲切，
       - control:
           kind: pause
           length: short
@@ -449,7 +449,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n林克先生，"
+      - text: "\n林可先生，"
       - control:
           kind: pause
           length: short
@@ -561,7 +561,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n随时嗅得到林克先生的动向。\n……\n\n骗你的啦。\n\n"
+      - text: "\n随时嗅得到林可先生的动向。\n……\n\n骗你的啦。\n\n"
       - control:
           kind: sound
           unknown:
@@ -573,7 +573,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 但是，林克先生什么话都没说。
+      - text: 但是，林可先生什么话都没说。
       - control:
           kind: pause
           length: short
@@ -594,7 +594,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克先生，
+      - text: 林可先生，
       - control:
           kind: pause
           length: longer
@@ -645,7 +645,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克先生，
+      - text: 林可先生，
       - control:
           kind: pause
           length: short

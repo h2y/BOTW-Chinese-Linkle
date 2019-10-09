@@ -1555,7 +1555,7 @@ entries:
           unknown:
             - 6
             - 0
-      - text: ……林克，
+      - text: ……林可，
       - control:
           kind: pause
           length: long
@@ -1999,7 +1999,7 @@ entries:
       - text: 飞行训练场
       - control:
           kind: reset_colour
-      - text: "展现过这样的技巧。\n……林克，"
+      - text: "展现过这样的技巧。\n……林可，"
       - control:
           kind: pause
           length: long
@@ -2176,7 +2176,7 @@ entries:
       - text: 力巴尔大人
       - control:
           kind: reset_colour
-      - text: "\n过去曾在这里展现过这样的技巧。\n……林克，"
+      - text: "\n过去曾在这里展现过这样的技巧。\n……林可，"
       - control:
           kind: pause
           length: long

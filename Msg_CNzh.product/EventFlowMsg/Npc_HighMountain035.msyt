@@ -73,7 +73,7 @@ entries:
           unknown:
             - 9
             - 0
-      - text: "大哥哥……\n你去叫"
+      - text: "大姐姐……\n你去叫"
       - control:
           kind: set_colour
           colour: blue
@@ -184,7 +184,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "大家要一起唱歌哦～\n大哥哥也来听吧～！"
+      - text: "大家要一起唱歌哦～\n大姐姐也来听吧～！"
   Talk_120:
     attributes: Npc_HighMountain035
     contents:

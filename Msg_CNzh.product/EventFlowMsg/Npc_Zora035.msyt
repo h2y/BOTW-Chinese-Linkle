@@ -121,7 +121,7 @@ entries:
           unknown:
             - 10
             - 21
-      - text: 林克！！
+      - text: 林可！！
       - control:
           kind: text_size
           percent: 100
@@ -134,7 +134,7 @@ entries:
           unknown:
             - 8
             - 14
-      - text: 仔细一看你不就是林克吗！
+      - text: 仔细一看你不就是林可吗！
       - control:
           kind: text_size
           percent: 100
@@ -242,7 +242,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: longer
@@ -337,7 +337,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 所以，林克……
+      - text: 所以，林可……
       - control:
           kind: pause
           length: short
@@ -463,7 +463,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "林克呀。\n"
+      - text: "林可呀。\n"
   talk16:
     attributes: Npc_Zora035
     contents:
@@ -489,7 +489,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 海利亚的英杰林克……
+      - text: 海利亚的英杰林可……
       - control:
           kind: pause
           length: longer
@@ -802,7 +802,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: longer
@@ -843,7 +843,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: 林克呀，辛苦你了！
+      - text: 林可呀，辛苦你了！
       - control:
           kind: pause
           length: longer
@@ -870,7 +870,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 而林克……
+      - text: 而林可……
       - control:
           kind: pause
           length: short
@@ -947,7 +947,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 林克你回来啦，
+      - text: 林可你回来啦，
       - control:
           kind: pause
           length: longer
@@ -967,7 +967,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: 林克呀，辛苦你了！
+      - text: 林可呀，辛苦你了！
       - control:
           kind: pause
           length: longer

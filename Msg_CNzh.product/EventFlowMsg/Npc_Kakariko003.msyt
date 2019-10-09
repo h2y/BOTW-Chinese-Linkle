@@ -884,7 +884,7 @@ entries:
           unknown:
             - 7
             - 4
-      - text: "这全都要感谢大哥哥！\n请收下这个吧！"
+      - text: "这全都要感谢大姐姐！\n请收下这个吧！"
   Talk32:
     attributes: Npc_Kakariko003
     contents:
@@ -986,7 +986,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "啊，是亲切的大哥哥！\n\n珂珂娜已经决定了！\n将来要当一名厨师！"
+      - text: "啊，是亲切的大姐姐！\n\n珂珂娜已经决定了！\n将来要当一名厨师！"
       - control:
           kind: pause
           length: short

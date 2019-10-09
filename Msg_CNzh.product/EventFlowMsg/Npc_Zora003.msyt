@@ -22,7 +22,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: pause
           frames: 10
@@ -45,7 +45,7 @@ entries:
           unknown:
             - 5
             - 6
-      - text: 但是，林克……
+      - text: 但是，林可……
       - control:
           kind: pause
           frames: 20
@@ -131,7 +131,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           frames: 20
@@ -190,7 +190,7 @@ entries:
           unknown:
             - 5
             - 4
-      - text: 林克，要是今后遇到了困难，
+      - text: 林可，要是今后遇到了困难，
       - control:
           kind: pause
           frames: 20
@@ -200,7 +200,7 @@ entries:
           unknown:
             - 1
             - 1
-      - text: "不管何时，我们一族都欢迎你卓哟！\n\n谢谢你，林克……"
+      - text: "不管何时，我们一族都欢迎你卓哟！\n\n谢谢你，林可……"
       - control:
           kind: pause
           frames: 20
@@ -213,7 +213,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 谢谢你，林克。
+      - text: 谢谢你，林可。
       - control:
           kind: pause
           frames: 20

@@ -44,7 +44,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 大哥哥……
+      - text: 大姐姐……
   talk03:
     attributes: Npc_TabantaBridgeHatago004
     contents:
@@ -67,7 +67,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n他要我跟大哥哥……"
+      - text: "\n他要我跟大姐姐……"
       - control:
           kind: pause
           length: short

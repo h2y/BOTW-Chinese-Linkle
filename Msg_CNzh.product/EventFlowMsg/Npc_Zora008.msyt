@@ -357,7 +357,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n很可爱对不对？\n你真正的名字叫林克……\n\n当时你以海拉鲁英杰的身份，\n跟米法大人一起挺身对抗"
+      - text: "\n很可爱对不对？\n你真正的名字叫林可……\n\n当时你以海拉鲁英杰的身份，\n跟米法大人一起挺身对抗"
       - control:
           kind: set_colour
           colour: red

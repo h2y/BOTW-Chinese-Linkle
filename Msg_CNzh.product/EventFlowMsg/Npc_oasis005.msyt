@@ -138,7 +138,7 @@ entries:
   Com_Talk_05c:
     attributes: ""
     contents:
-      - text: "呵呵，小哥你愿意的话，\n我还能再收购哦。"
+      - text: "呵呵，小姐姐你愿意的话，\n我还能再收购哦。"
   Com_Talk_05d:
     attributes: ""
     contents:
@@ -407,7 +407,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: "正因为有黑暗，光芒才更显动人。\n我说小哥……不，客人，你不这么认为吗？"
+      - text: "正因为有黑暗，光芒才更显动人。\n我说小姐姐……不，客人，你不这么认为吗？"
   Talk_04:
     attributes: Npc_oasis005
     contents:
@@ -424,7 +424,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n\n我想也是，毕竟小哥你把商品都买光了。"
+      - text: "\n\n我想也是，毕竟小姐姐你把商品都买光了。"
   Talk_05:
     attributes: Npc_oasis005
     contents:

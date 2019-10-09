@@ -46,7 +46,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "仔细一看，你是我喜欢的类型……\n\n我说小弟，"
+      - text: "仔细一看，你是我喜欢的类型……\n\n我说小妹，"
       - control:
           kind: pause
           length: longer
@@ -98,7 +98,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n我就帮小弟你"
+      - text: "\n我就帮小妹妹你"
       - control:
           kind: set_colour
           colour: red
@@ -114,7 +114,7 @@ entries:
           unknown:
             - 2
             - 205
-      - text: "我感觉到了小弟你的香气呢。\n\n来……"
+      - text: "我感觉到了小妹妹你的香气呢。\n\n来……"
       - control:
           kind: pause
           length: short
@@ -152,7 +152,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n还有其他姐妹无法取回力量。\n小弟……"
+      - text: "\n还有其他姐妹无法取回力量。\n小妹妹……"
       - control:
           kind: pause
           length: short
@@ -243,7 +243,7 @@ entries:
           unknown:
             - 2
             - 205
-      - text: 我现在的力量，能将小弟的服装
+      - text: 我现在的力量，能将小妹妹的服装
       - control:
           kind: pause
           length: short
@@ -271,7 +271,7 @@ entries:
           unknown:
             - 2
             - 205
-      - text: 我现在的力量，能将小弟的服装
+      - text: 我现在的力量，能将小妹妹的服装
       - control:
           kind: pause
           length: short
@@ -299,7 +299,7 @@ entries:
           unknown:
             - 2
             - 205
-      - text: 我现在的力量，能将小弟的服装
+      - text: 我现在的力量，能将小妹妹的服装
       - control:
           kind: pause
           length: short
@@ -327,7 +327,7 @@ entries:
           unknown:
             - 2
             - 205
-      - text: 我现在的力量，能将小弟的服装
+      - text: 我现在的力量，能将小妹妹的服装
       - control:
           kind: pause
           length: short
@@ -355,7 +355,7 @@ entries:
           unknown:
             - 2
             - 205
-      - text: 小弟……
+      - text: 小妹妹……
       - control:
           kind: pause
           length: short
@@ -651,7 +651,7 @@ entries:
           unknown:
             - 17
             - 205
-      - text: 小弟，你看清楚，
+      - text: 小妹妹，你看清楚，
       - control:
           kind: pause
           length: longer

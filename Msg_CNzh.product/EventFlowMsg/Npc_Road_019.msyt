@@ -261,7 +261,7 @@ entries:
           unknown:
             - 9
             - 205
-      - text: 小哥你真是个好客人。
+      - text: 小姐姐你真是个好客人。
   Com_Talk_11d:
     attributes: ""
     contents:
@@ -907,7 +907,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 小哥你也在小憩片刻吗？
+      - text: 小姐姐你也在小憩片刻吗？
       - control:
           kind: pause
           length: short
@@ -944,7 +944,7 @@ entries:
           unknown:
             - 0
             - 16
-      - text: 小哥难道是走到哪就下雨的雨男？
+      - text: 小姐姐难道是走到哪就下雨的雨男？
       - control:
           kind: pause
           length: long
@@ -961,7 +961,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n小哥，想来点补充精力的东西吗？"
+      - text: "\n小姐姐，想来点补充精力的东西吗？"
   RetMSG_Futa_00:
     attributes: Npc_Road_019
     contents:
@@ -1129,7 +1129,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: 托小哥的福，我才能得救。
+      - text: 托小姐姐的福，我才能得救。
       - control:
           kind: pause
           length: short
@@ -1151,7 +1151,7 @@ entries:
           unknown:
             - 4
             - 20
-      - text: 小哥……
+      - text: 小姐姐……
       - control:
           kind: pause
           length: short

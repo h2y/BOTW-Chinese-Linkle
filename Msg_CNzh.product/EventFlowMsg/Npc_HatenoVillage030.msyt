@@ -413,13 +413,13 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n小哥儿你和社长的谈话，\n"
+      - text: "\n小姐姐儿你和社长的谈话，\n"
       - control:
           kind: sound
           unknown:
             - 11
             - 1
-      - text: 小哥儿你打算……
+      - text: 小姐姐儿你打算……
       - control:
           kind: pause
           length: short
@@ -728,7 +728,7 @@ entries:
       - text: 阿卡莱湖
       - control:
           kind: reset_colour
-      - text: "附近……\n希望小哥你也能"
+      - text: "附近……\n希望小姐姐你也能"
       - control:
           kind: pause
           length: short
@@ -862,7 +862,7 @@ entries:
           unknown:
             - 0
             - 16
-      - text: 小哥儿，你运送那道
+      - text: 小姐姐儿，你运送那道
       - control:
           kind: set_colour
           colour: blue

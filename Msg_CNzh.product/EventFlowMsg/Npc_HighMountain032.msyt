@@ -40,7 +40,7 @@ entries:
       - text: 鸟怪
       - control:
           kind: reset_colour
-      - text: "好可怕……\n珂茨会被吃掉吗……\n大哥哥也从"
+      - text: "好可怕……\n珂茨会被吃掉吗……\n大姐姐也从"
       - control:
           kind: set_colour
           colour: blue
@@ -65,7 +65,7 @@ entries:
           unknown:
             - 10
             - 11
-      - text: "好厉害！\n那大哥哥就是"
+      - text: "好厉害！\n那大姐姐就是"
       - control:
           kind: set_colour
           colour: blue
@@ -81,7 +81,7 @@ entries:
           unknown:
             - 9
             - 0
-      - text: "大哥哥长得比珂茨高大……\n居然还会怕……怎么办……\n"
+      - text: "大姐姐长得比珂茨高大……\n居然还会怕……怎么办……\n"
       - control:
           kind: sound
           unknown:
@@ -115,7 +115,7 @@ entries:
           unknown:
             - 11
             - 0
-      - text: 大哥哥，
+      - text: 大姐姐，
       - control:
           kind: set_colour
           colour: red
@@ -140,7 +140,7 @@ entries:
           unknown:
             - 6
             - 0
-      - text: "我要去找族长大人～\n大哥哥也要一起去吗～？"
+      - text: "我要去找族长大人～\n大姐姐也要一起去吗～？"
   Talk_020:
     attributes: Npc_HighMountain032
     contents:
@@ -177,7 +177,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "啊，大哥哥，神庙里面长怎样？\n有很多鱼吗？"
+      - text: "啊，大姐姐，神庙里面长怎样？\n有很多鱼吗？"
       - control:
           kind: choice
           choice_labels:
@@ -253,7 +253,7 @@ entries:
           unknown:
             - 7
             - 2
-      - text: "爸爸教我怎么抓鱼了～\n\n听说快速接近比较容易抓到！\n大哥哥也试试看吧～"
+      - text: "爸爸教我怎么抓鱼了～\n\n听说快速接近比较容易抓到！\n大姐姐也试试看吧～"
   Talk_201:
     attributes: Npc_HighMountain032
     contents:

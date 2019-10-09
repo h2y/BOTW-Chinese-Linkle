@@ -60,7 +60,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "赛跑！\n大哥哥也要加入吗？"
+      - text: "赛跑！\n大姐姐也要加入吗？"
   Talk02:
     attributes: Npc_HyruleDepthHatago001
     contents:

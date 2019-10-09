@@ -104,7 +104,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n大哥哥有兴趣吗？"
+      - text: "\n大姐姐有兴趣吗？"
       - control:
           kind: choice
           choice_labels:

@@ -35,7 +35,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "小哥……\n\n你身上有"
+      - text: "小姐姐……\n\n你身上有"
       - control:
           kind: set_colour
           colour: blue
@@ -149,7 +149,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "应该是小哥……\n虽然不知道你为何要打扮成这样……"
+      - text: "应该是小姐姐……\n虽然不知道你为何要打扮成这样……"
       - control:
           kind: pause
           length: longer
@@ -297,7 +297,7 @@ entries:
           unknown:
             - 2
             - 16
-      - text: ……小哥啊，
+      - text: ……小姐姐啊，
       - control:
           kind: pause
           length: longer
@@ -369,7 +369,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 小哥，
+      - text: 小姐姐，
       - control:
           kind: pause
           length: longer
@@ -468,7 +468,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 小哥，
+      - text: 小姐姐，
       - control:
           kind: pause
           length: longer
@@ -544,7 +544,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 小哥，
+      - text: 小姐姐，
       - control:
           kind: pause
           length: longer
@@ -699,7 +699,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 小哥，
+      - text: 小姐姐，
       - control:
           kind: pause
           length: longer

@@ -38,7 +38,7 @@ entries:
           unknown:
             - 0
             - 9
-      - text: "是时候了。\n\n林克……"
+      - text: "是时候了。\n\n林可……"
       - control:
           kind: pause
           length: longer

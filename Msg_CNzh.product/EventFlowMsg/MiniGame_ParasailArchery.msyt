@@ -54,7 +54,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: single_choice
           label: 10
@@ -68,7 +68,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n你叫做林克对吧？\n这名字好像在哪听过呢！\n\n"
+      - text: "\n你叫做林可对吧？\n这名字好像在哪听过呢！\n\n"
       - control:
           kind: sound
           unknown:
@@ -78,7 +78,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n我听说林克很擅长用弓？"
+      - text: "\n我听说林可很擅长用弓？"
       - control:
           kind: choice
           choice_labels:
@@ -198,7 +198,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: pause
           length: longer
@@ -218,7 +218,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 我再说一次，林克！
+      - text: 我再说一次，林可！
   talk100:
     attributes: Npc_ValleyVillage010
     contents:
@@ -315,7 +315,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n林克你身上没有带"
+      - text: "\n林可你身上没有带"
       - control:
           kind: set_colour
           colour: blue
@@ -480,7 +480,7 @@ entries:
           unknown:
             - 7
             - 20
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: pause
           length: short
@@ -522,7 +522,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: 哦哦～不愧是林克！
+      - text: 哦哦～不愧是林可！
       - control:
           kind: pause
           length: longer
@@ -556,7 +556,7 @@ entries:
           unknown:
             - 7
             - 9
-      - text: "太帅啦，林克！\n\n啊，"
+      - text: "太帅啦，林可！\n\n啊，"
       - control:
           kind: pause
           length: short
@@ -624,7 +624,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: longer

@@ -228,7 +228,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 啊，大哥哥♪
+      - text: 啊，大姐姐♪
   talk13:
     attributes: Npc_TamourPlainHatago_003
     contents:
@@ -486,7 +486,7 @@ entries:
           unknown:
             - 6
             - 6
-      - text: 大哥哥你也喜欢
+      - text: 大姐姐你也喜欢
       - control:
           kind: set_colour
           colour: blue
@@ -578,7 +578,7 @@ entries:
       - text: 蜻蜓
       - control:
           kind: reset_colour
-      - text: 大哥哥♪
+      - text: 大姐姐♪
   talk25:
     attributes: Npc_TamourPlainHatago_003
     contents:

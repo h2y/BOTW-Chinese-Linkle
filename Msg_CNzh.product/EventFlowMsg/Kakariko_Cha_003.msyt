@@ -41,7 +41,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克阁下……
+      - text: 林可阁下……
       - control:
           kind: pause
           length: longer
@@ -120,7 +120,7 @@ entries:
           unknown:
             - 9
             - 0
-      - text: 唉……林克阁下……
+      - text: 唉……林可阁下……
       - control:
           kind: pause
           length: longer

@@ -61,7 +61,7 @@ entries:
       - control:
           kind: animation
           name: Work_00
-      - text: "目前没有异常卓啦！\n\n啊，是林克大人。"
+      - text: "目前没有异常卓啦！\n\n啊，是林可大人。"
   talk02:
     attributes: Npc_Zora034
     contents:
@@ -86,7 +86,7 @@ entries:
           unknown:
             - 7
             - 20
-      - text: 是林克大人呀！
+      - text: 是林可大人呀！
       - control:
           kind: pause
           length: longer
@@ -113,7 +113,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n林克大人跟100年前一样，完全没变卓啦……\n"
+      - text: "\n林可大人跟100年前一样，完全没变卓啦……\n"
       - control:
           kind: sound
           unknown:
@@ -211,7 +211,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 林克大人……
+      - text: 林可大人……
       - control:
           kind: pause
           length: longer
@@ -275,7 +275,7 @@ entries:
           unknown:
             - 9
             - 12
-      - text: "真是万分抱歉，林克大人……\n\n我乃全身沾满血腥味的士兵，"
+      - text: "真是万分抱歉，林可大人……\n\n我乃全身沾满血腥味的士兵，"
       - control:
           kind: pause
           length: longer
@@ -370,7 +370,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 林克大人请看，
+      - text: 林可大人请看，
       - control:
           kind: pause
           length: longer
@@ -411,7 +411,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n居然就是林克大人！"
+      - text: "\n居然就是林可大人！"
   talk16:
     attributes: Npc_Zora034
     contents:
@@ -492,7 +492,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n就是林克大人卓啦？"
+      - text: "\n就是林可大人卓啦？"
   talk22:
     attributes: Npc_Zora034
     contents:
@@ -697,7 +697,7 @@ entries:
           unknown:
             - 5
             - 16
-      - text: 我想林克大人应该很清楚才是卓啦……
+      - text: 我想林可大人应该很清楚才是卓啦……
   talk30:
     attributes: Npc_Zora034
     contents:
@@ -885,7 +885,7 @@ entries:
           unknown:
             - 0
             - 1
-      - text: 难道是林克大人
+      - text: 难道是林可大人
       - control:
           kind: pause
           length: short

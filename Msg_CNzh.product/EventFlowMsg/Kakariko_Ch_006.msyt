@@ -60,7 +60,7 @@ entries:
           unknown:
             - 1
             - 9
-      - text: "我啊～\n最喜欢会用弓的男性了～\n怎么样～"
+      - text: "我啊～\n最喜欢会用弓的女生了～\n怎么样～"
       - control:
           kind: pause
           length: short

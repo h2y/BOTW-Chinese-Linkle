@@ -123,7 +123,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 英杰林克！
+      - text: 英杰林可！
       - control:
           kind: text_size
           percent: 100
@@ -239,7 +239,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克！
+      - text: 林可！
   talk08:
     attributes: Npc_Zora014
     contents:
@@ -279,7 +279,7 @@ entries:
       - control:
           kind: set_colour
           colour: blue
-      - text: 林克
+      - text: 林可
       - control:
           kind: reset_colour
       - text: ！
@@ -454,7 +454,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: pause
           length: longer
@@ -494,7 +494,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: short
@@ -531,7 +531,7 @@ entries:
           unknown:
             - 5
             - 4
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: longer
@@ -601,7 +601,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: pause
           length: longer

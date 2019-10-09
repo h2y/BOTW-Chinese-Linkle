@@ -27,7 +27,7 @@ entries:
       - control:
           kind: text_size
           percent: 80
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: text_size
           percent: 100
@@ -41,7 +41,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: "林克……\n\n"
+      - text: "林可……\n\n"
       - control:
           kind: auto_advance
           frames: 242
@@ -53,4 +53,4 @@ entries:
       - control:
           kind: auto_advance
           frames: 126
-      - text: "林克……\n一切就拜托你了……"
+      - text: "林可……\n一切就拜托你了……"

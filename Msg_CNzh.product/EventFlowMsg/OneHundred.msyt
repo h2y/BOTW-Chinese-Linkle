@@ -668,7 +668,7 @@ entries:
           unknown:
             - 7
             - 2
-      - text: "喂，我都听说啰。\n\n是小哥从怪物手中\n救出我的同伴对吧？\n你真厉害呢！！\n\n听说你在很窄的木桥上\n痛扁怪物们一顿。\n"
+      - text: "喂，我都听说啰。\n\n是小姐姐从怪物手中\n救出我的同伴对吧？\n你真厉害呢！！\n\n听说你在很窄的木桥上\n痛扁怪物们一顿。\n"
       - control:
           kind: sound
           unknown:
@@ -748,7 +748,7 @@ entries:
           unknown:
             - 7
             - 2
-      - text: "喂，我都听说啰。\n\n是小哥从怪物手中\n救出我的同伴对吧？\n你真厉害呢！\n\n"
+      - text: "喂，我都听说啰。\n\n是小姐姐从怪物手中\n救出我的同伴对吧？\n你真厉害呢！\n\n"
       - control:
           kind: sound
           unknown:
@@ -784,7 +784,7 @@ entries:
           unknown:
             - 10
             - 21
-      - text: "哦！\n小哥！！"
+      - text: "哦！\n小姐姐！！"
   Npc_oasis004_111:
     attributes: NPC_oasis004
     contents:
@@ -864,7 +864,7 @@ entries:
           unknown:
             - 9
             - 18
-      - text: "什么嘛……是小哥啊。\n别乱吓人啦。"
+      - text: "什么嘛……是小姐姐啊。\n别乱吓人啦。"
   Npc_oasis004_114:
     attributes: NPC_oasis004
     contents:
@@ -972,7 +972,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "是小哥救了大家对吧？\n\n大家都说你在很窄的木桥上痛扁了怪物们，\n简直跟勇者一样呢。\n你真厉害呢！"
+      - text: "是小姐姐救了大家对吧？\n\n大家都说你在很窄的木桥上痛扁了怪物们，\n简直跟勇者一样呢。\n你真厉害呢！"
   Npc_oasis004_118:
     attributes: NPC_oasis004
     contents:
@@ -981,7 +981,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "结果是靠着小哥\n救出了所有人。"
+      - text: "结果是靠着小姐姐\n救出了所有人。"
   Npc_oasis004_119:
     attributes: NPC_oasis004
     contents:
@@ -990,7 +990,7 @@ entries:
           unknown:
             - 7
             - 2
-      - text: "哦！小哥！\n我一直在等你呢。"
+      - text: "哦！小姐姐！\n我一直在等你呢。"
   Npc_oasis004_120:
     attributes: NPC_oasis004
     contents:

@@ -108,7 +108,7 @@ entries:
           unknown:
             - 7
             - 205
-      - text: 嘿！小哥买得好！
+      - text: 嘿！小姐姐买得好！
   Com_Talk_12:
     attributes: ""
     contents:
@@ -195,7 +195,7 @@ entries:
           unknown:
             - 21
             - 205
-      - text: 小哥，你真的很喜欢香蕉呢。
+      - text: 小姐姐，你真的很喜欢香蕉呢。
   Com_Talk_37:
     attributes: ""
     contents:
@@ -208,7 +208,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "托小哥的福，\n我的香蕉全卖完了呢。\n要看看下次预定到货的香蕉吗？"
+      - text: "托小姐姐的福，\n我的香蕉全卖完了呢。\n要看看下次预定到货的香蕉吗？"
       - control:
           kind: choice
           choice_labels:
@@ -345,7 +345,7 @@ entries:
           unknown:
             - 7
             - 9
-      - text: 小哥，之后再请你关照啦！
+      - text: 小姐姐，之后再请你关照啦！
       - control:
           kind: pause
           length: long
@@ -358,7 +358,7 @@ entries:
           unknown:
             - 8
             - 7
-      - text: ……小哥，你讨厌香蕉吗？
+      - text: ……小姐姐，你讨厌香蕉吗？
   Talk04:
     attributes: Npc_Assassin_005
     contents:
@@ -367,7 +367,7 @@ entries:
           unknown:
             - 7
             - 3
-      - text: "来买啊！快来买啊！\n又见面了，小哥。\n来看看我的香蕉吧～\n来买啊！快来买啊！"
+      - text: "来买啊！快来买啊！\n又见面了，小姐姐。\n来看看我的香蕉吧～\n来买啊！快来买啊！"
       - control:
           kind: choice
           choice_labels:

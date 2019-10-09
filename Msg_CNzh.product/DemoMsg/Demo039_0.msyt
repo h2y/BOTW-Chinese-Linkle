@@ -166,7 +166,7 @@ entries:
       - control:
           kind: pause
           frames: 126
-      - text: "\n那么就拜托你了，兄弟！"
+      - text: "\n那么就拜托你了，林可！"
       - control:
           kind: pause
           frames: 101

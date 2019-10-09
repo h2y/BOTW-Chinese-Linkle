@@ -7,7 +7,7 @@ entries:
       - text: "那家伙的动作很快！\n不要被迷惑了！"
   talk010:
     contents:
-      - text: 很好！林克！
+      - text: 很好！林可！
   talk011:
     contents:
       - text: 起作用了！
@@ -22,7 +22,7 @@ entries:
       - text: 你没事吧？
   talk022:
     contents:
-      - text: 林克！
+      - text: 林可！
   talk030:
     contents:
       - text: 好强的攻击力。

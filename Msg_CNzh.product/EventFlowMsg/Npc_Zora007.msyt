@@ -191,7 +191,7 @@ entries:
           unknown:
             - 1
             - 6
-      - text: 大哥哥，你是谁～？
+      - text: 大姐姐，你是谁～？
       - control:
           kind: choice
           choice_labels:

@@ -90,7 +90,7 @@ entries:
           unknown:
             - 0
             - 18
-      - text: 大哥哥也要早点回家才行……
+      - text: 大姐姐也要早点回家才行……
   talk04:
     attributes: Npc_HatenoVillage028
     contents:
@@ -176,7 +176,7 @@ entries:
           unknown:
             - 11
             - 6
-      - text: 大哥哥……
+      - text: 大姐姐……
       - control:
           kind: pause
           length: short
@@ -258,7 +258,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: 大哥哥能和雕像说话，好厉害！
+      - text: 大姐姐能和雕像说话，好厉害！
   talk15:
     attributes: Npc_HatenoVillage028
     contents:

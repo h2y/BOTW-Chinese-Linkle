@@ -997,7 +997,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: "这里是只有经过我们毅力三兄弟\n认可的男人"
+      - text: "这里是只有经过我们毅力三兄弟\n认可的人"
       - control:
           kind: pause
           length: short
@@ -1007,7 +1007,7 @@ entries:
           unknown:
             - 11
             - 16
-      - text: "……话虽如此，\n你似乎是个挺有毅力的男人！\n"
+      - text: "……话虽如此，\n你似乎是个挺有毅力的女人！\n"
       - control:
           kind: sound
           unknown:

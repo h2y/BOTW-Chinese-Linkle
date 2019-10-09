@@ -645,7 +645,7 @@ entries:
           unknown:
             - 1
             - 2
-      - text: "难得有客人光临呢。\n\n这村子没有年轻人会用弓呢～\n\n像小哥你这样的好男人光临本店，\n让我觉得好兴奋呀～\n总之请慢慢挑选吧～"
+      - text: "难得有客人光临呢。\n\n这村子没有年轻人会用弓呢～\n\n像小姐姐你这样的好男人光临本店，\n让我觉得好兴奋呀～\n总之请慢慢挑选吧～"
       - control:
           kind: choice
           choice_labels:
@@ -662,7 +662,7 @@ entries:
           unknown:
             - 1
             - 2
-      - text: "客人你是弓箭手吗～？\n\n这村子没有年轻人会用弓呢～\n\n像小哥你这样的好男人光临本店，\n让我觉得好兴奋呀～\n总之请慢慢挑选吧～\n\n如果现金不够，\n我可以收购你不要的东西～\n你就别客气，尽管开口吧～"
+      - text: "客人你是弓箭手吗～？\n\n这村子没有年轻人会用弓呢～\n\n像小姐姐你这样的好男人光临本店，\n让我觉得好兴奋呀～\n总之请慢慢挑选吧～\n\n如果现金不够，\n我可以收购你不要的东西～\n你就别客气，尽管开口吧～"
   Talk05:
     attributes: Npc_Kakariko010
     contents:
@@ -718,7 +718,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "哎呀～你真是大手笔呢。\n我会为了小哥再进货的～"
+      - text: "哎呀～你真是大手笔呢。\n我会为了小姐姐再进货的～"
   Talk13:
     attributes: Npc_Kakariko010
     contents:
@@ -811,7 +811,7 @@ entries:
           unknown:
             - 11
             - 0
-      - text: "小哥让我无法抑制\n心中小鹿乱撞的感受……"
+      - text: "小姐姐让我无法抑制\n心中小鹿乱撞的感受……"
       - control:
           kind: pause
           length: longer

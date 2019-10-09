@@ -190,7 +190,7 @@ entries:
       - text: 照片包
   PlayerName:
     contents:
-      - text: 林克
+      - text: 林可
   Pocketbook:
     contents:
       - text: 冒险笔记
@@ -292,7 +292,7 @@ entries:
       - text: 传送点
   WolfLink:
     contents:
-      - text: 林克狼
+      - text: 林可狼
   Zelda:
     contents:
       - text: 塞尔达

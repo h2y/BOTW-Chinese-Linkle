@@ -121,7 +121,7 @@ entries:
           unknown:
             - 6
             - 0
-      - text: "我是想着大哥哥唱出来的！\n很棒吧？"
+      - text: "我是想着大姐姐唱出来的！\n很棒吧？"
   Talk_110:
     attributes: Npc_HighMountain031
     contents:

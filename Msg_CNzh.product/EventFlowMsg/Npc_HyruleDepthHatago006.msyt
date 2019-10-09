@@ -363,7 +363,7 @@ entries:
           unknown:
             - 1
             - 1
-      - text: 他背上佩带着
+      - text: 她背上佩带着
       - control:
           kind: set_colour
           colour: red

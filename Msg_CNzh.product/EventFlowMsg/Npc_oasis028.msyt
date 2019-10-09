@@ -5,7 +5,7 @@ entries:
   "0000":
     attributes: ""
     contents:
-      - text: 林克
+      - text: 林可
   "0001":
     attributes: ""
     contents:
@@ -18,7 +18,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: "林克呀……像沃伊一样可靠的名字呢……\n\n要是我有了贝比，\n一定会取这名字的。"
+      - text: "林可呀……像沃伊一样可靠的名字呢……\n\n要是我有了贝比，\n一定会取这名字的。"
   Talk_01:
     attributes: Npc_oasis028
     contents:
@@ -27,7 +27,7 @@ entries:
           unknown:
             - 1
             - 4
-      - text: "真是沙库沙库……林克，\n我永远都不会忘记你的。"
+      - text: "真是沙库沙库……林可，\n我永远都不会忘记你的。"
   Talk_02:
     attributes: Npc_oasis028
     contents:

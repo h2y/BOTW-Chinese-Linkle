@@ -94,7 +94,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: "\n\n这是普莉珂的宝物～\n送给大哥哥～！"
+      - text: "\n\n这是普莉珂的宝物～\n送给大姐姐～！"
   Talk03:
     attributes: Npc_Kakariko004
     contents:
@@ -122,7 +122,7 @@ entries:
           unknown:
             - 9
             - 0
-      - text: "这样的话，普莉珂的这个咸咸又硬硬的东西\n就不能送给大哥哥了……"
+      - text: "这样的话，普莉珂的这个咸咸又硬硬的东西\n就不能送给大姐姐了……"
   Talk06:
     attributes: Npc_Kakariko004
     contents:
@@ -131,13 +131,13 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "大哥哥清过行李了？\n\n"
+      - text: "大姐姐清过行李了？\n\n"
       - control:
           kind: sound
           unknown:
             - 7
             - 0
-      - text: "那么普莉珂的这个硬硬的东西\n就送给大哥哥啦！"
+      - text: "那么普莉珂的这个硬硬的东西\n就送给大姐姐啦！"
   Talk07:
     attributes: Npc_Kakariko004
     contents:
@@ -181,7 +181,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: "\n\n这是普莉珂的宝物～\n送给大哥哥～！"
+      - text: "\n\n这是普莉珂的宝物～\n送给大姐姐～！"
   Talk09:
     attributes: Npc_Kakariko004
     contents:
@@ -190,7 +190,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "亮晶晶～\n送给大哥哥～！"
+      - text: "亮晶晶～\n送给大姐姐～！"
   Talk10:
     attributes: Npc_Kakariko004
     contents:
@@ -243,7 +243,7 @@ entries:
           unknown:
             - 9
             - 0
-      - text: "这样的话，普莉珂的这个咸咸又硬硬的东西\n就不能送给大哥哥了……"
+      - text: "这样的话，普莉珂的这个咸咸又硬硬的东西\n就不能送给大姐姐了……"
   Talk13:
     attributes: Npc_Kakariko004
     contents:
@@ -271,4 +271,4 @@ entries:
           unknown:
             - 9
             - 0
-      - text: "普莉珂难得想把自己的宝物\n送给大哥哥……"
+      - text: "普莉珂难得想把自己的宝物\n送给大姐姐……"

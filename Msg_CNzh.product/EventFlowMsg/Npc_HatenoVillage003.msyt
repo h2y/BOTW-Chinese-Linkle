@@ -22,7 +22,7 @@ entries:
           unknown:
             - 1
             - 205
-      - text: 那边的小哥！
+      - text: 那边的小姐姐！
   talk00:
     attributes: Npc_HatenoVillage003
     contents:

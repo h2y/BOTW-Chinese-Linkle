@@ -154,7 +154,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克先生呀……
+      - text: 林可先生呀……
       - control:
           kind: pause
           length: longer
@@ -261,7 +261,7 @@ entries:
           unknown:
             - 4
             - 20
-      - text: 林克先生……
+      - text: 林可先生……
       - control:
           kind: pause
           length: short
@@ -327,7 +327,7 @@ entries:
           unknown:
             - 3
             - 4
-      - text: 林克先生……
+      - text: 林可先生……
   talk16:
     attributes: Npc_Zora006
     contents:
@@ -458,11 +458,11 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 林克先生！
+      - text: 林可先生！
       - control:
           kind: pause
           length: short
-      - text: 林克先生！
+      - text: 林可先生！
       - control:
           kind: pause
           length: longer
@@ -485,7 +485,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 林克先生！
+      - text: 林可先生！
       - control:
           kind: pause
           length: longer

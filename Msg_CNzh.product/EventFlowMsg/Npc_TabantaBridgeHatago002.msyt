@@ -45,7 +45,7 @@ entries:
           unknown:
             - 10
             - 0
-      - text: "大哥哥你不知道吗！？\n那是"
+      - text: "大姐姐你不知道吗！？\n那是"
       - control:
           kind: set_colour
           colour: blue

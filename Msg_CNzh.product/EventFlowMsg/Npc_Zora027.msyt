@@ -100,7 +100,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: 林克！？
+      - text: 林可！？
       - control:
           kind: text_size
           percent: 100
@@ -732,11 +732,11 @@ entries:
       - control:
           kind: text_size
           percent: 125
-      - text: 而且是林克！？
+      - text: 而且是林可！？
       - control:
           kind: text_size
           percent: 100
-      - text: "\n\n好死不死，希多王子带来的\n海利亚人偏偏是林克……\n"
+      - text: "\n\n好死不死，希多王子带来的\n海利亚人偏偏是林可……\n"
       - control:
           kind: sound
           unknown:
@@ -868,7 +868,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克呀……
+      - text: 林可呀……
   talk33:
     attributes: Npc_Zora027
     contents:
@@ -881,7 +881,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 米法大人的林克，
+      - text: 米法大人的林可，
       - control:
           kind: pause
           length: short
@@ -998,7 +998,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 你果然是100年前那个林克……
+      - text: 你果然是100年前那个林可……
       - control:
           kind: pause
           length: longer
@@ -1011,7 +1011,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: 话说林克……
+      - text: 话说林可……
       - control:
           kind: pause
           length: longer

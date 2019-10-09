@@ -35,7 +35,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "行李！行李！\n帮忙！\n大哥哥的袋子，\n也够装行李吗？\n森林的精灵会给你大大的袋子！\n你知道这个传说吗？知道吗？"
+      - text: "行李！行李！\n帮忙！\n大姐姐的袋子，\n也够装行李吗？\n森林的精灵会给你大大的袋子！\n你知道这个传说吗？知道吗？"
       - control:
           kind: choice
           choice_labels:
@@ -96,7 +96,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n帮你把家里打扫得干干净净哦♪\n大哥哥知道吗？这是骑着马的旅行叔叔\n告诉蒽的。"
+      - text: "\n帮你把家里打扫得干干净净哦♪\n大姐姐知道吗？这是骑着马的旅行叔叔\n告诉蒽的。"
       - control:
           kind: single_choice
           label: 2
@@ -118,7 +118,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n不过那个叔叔说那里很危险，\n不可以接近城堡！\n所以大哥哥，\n你也不可以接近城堡！"
+      - text: "\n不过那个叔叔说那里很危险，\n不可以接近城堡！\n所以大姐姐，\n你也不可以接近城堡！"
   talk022:
     attributes: Npc_TabantaBridgeHatago003
     contents:

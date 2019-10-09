@@ -302,7 +302,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: "哎呀，林克先生。\n抱歉，今天女儿们依然到处乱跑。"
+      - text: "哎呀，林可先生。\n抱歉，今天女儿们依然到处乱跑。"
   Npc_HighMountain036_223:
     attributes: Npc_HighMountain036
     contents:
@@ -311,7 +311,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: "晚上好，林克先生。\n哎呀，要用锅子吗？"
+      - text: "晚上好，林可先生。\n哎呀，要用锅子吗？"
       - control:
           kind: choice
           choice_labels:
@@ -334,7 +334,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "啊，抱歉，林克先生。\n我是在自言自语……"
+      - text: "啊，抱歉，林可先生。\n我是在自言自语……"
   Npc_HighMountain036_225:
     attributes: Npc_HighMountain036
     contents:
@@ -373,7 +373,7 @@ entries:
           unknown:
             - 1
             - 4
-      - text: "林克先生，谢谢你！\n\n多亏你的帮忙，那个人……\n我老公终于回来了！"
+      - text: "林可先生，谢谢你！\n\n多亏你的帮忙，那个人……\n我老公终于回来了！"
   Npc_HighMountain036_301:
     attributes: Npc_HighMountain036
     contents:

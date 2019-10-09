@@ -81,7 +81,7 @@ entries:
           unknown:
             - 1
             - 9
-      - text: "就算小哥你再怎么擅长使剑，\n凭你的长相，要受欢迎应该很难吧……"
+      - text: "就算小姐姐你再怎么擅长使剑，\n凭你的长相，要受欢迎应该很难吧……"
   Guardian00:
     attributes: Npc_Attacked_007
     contents:
@@ -183,7 +183,7 @@ entries:
           unknown:
             - 1
             - 4
-      - text: "哎呀～小哥你好强啊。\n这是一点小心意，请收下吧。"
+      - text: "哎呀～小姐姐你好强啊。\n这是一点小心意，请收下吧。"
   SavedLv1_01:
     attributes: ""
     contents:
@@ -192,7 +192,7 @@ entries:
           unknown:
             - 1
             - 4
-      - text: "小哥你真厉害。\n得救了。\n这是一点小心意，请收下吧。"
+      - text: "小姐姐你真厉害。\n得救了。\n这是一点小心意，请收下吧。"
   SavedLv2_00:
     attributes: ""
     contents:
@@ -201,7 +201,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: "哎呀～小哥你好强啊。\n真是得救了。\n请收下我的谢礼吧。"
+      - text: "哎呀～小姐姐你好强啊。\n真是得救了。\n请收下我的谢礼吧。"
   SavedLv2_01:
     attributes: ""
     contents:
@@ -210,7 +210,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: "多亏有小哥你才得救了。\n真的很谢谢你。\n请收下我的谢礼吧。"
+      - text: "多亏有小姐姐你才得救了。\n真的很谢谢你。\n请收下我的谢礼吧。"
   SavedLv3_00:
     attributes: ""
     contents:
@@ -219,7 +219,7 @@ entries:
           unknown:
             - 1
             - 9
-      - text: "小哥你是我的救命恩人。\n请务必让我答谢你！"
+      - text: "小姐姐你是我的救命恩人。\n请务必让我答谢你！"
   SavedLv3_01:
     attributes: ""
     contents:
@@ -228,4 +228,4 @@ entries:
           unknown:
             - 4
             - 23
-      - text: "小哥你到底是什么人？\n请你务必收下这个！"
+      - text: "小姐姐你到底是什么人？\n请你务必收下这个！"

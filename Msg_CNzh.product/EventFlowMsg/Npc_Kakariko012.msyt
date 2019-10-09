@@ -463,7 +463,7 @@ entries:
       - text: 珂拉精选
       - control:
           kind: reset_colour
-      - text: "的特殊服饰！\n\n即使是像小哥这样不修边幅的人，\n本店的商品也能让你大大满足哦！\n尤其那边的"
+      - text: "的特殊服饰！\n\n即使是像小姐姐这样不修边幅的人，\n本店的商品也能让你大大满足哦！\n尤其那边的"
       - control:
           kind: set_colour
           colour: blue

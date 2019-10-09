@@ -55,7 +55,7 @@ entries:
           zero:
             four:
               field_1: 0
-      - text: "事先将精灵放入袋子中，\n精灵会在林克倒下时帮忙回复心心。"
+      - text: "事先将精灵放入袋子中，\n精灵会在林可倒下时帮忙回复心心。"
   Material_05:
     contents:
       - text: 宝石

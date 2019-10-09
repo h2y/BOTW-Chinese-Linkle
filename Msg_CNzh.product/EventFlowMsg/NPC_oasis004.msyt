@@ -331,7 +331,7 @@ entries:
           unknown:
             - 11
             - 0
-      - text: "这个怪里怪气的小哥\n在卖"
+      - text: "这个怪里怪气的小姐姐\n在卖"
       - control:
           kind: set_colour
           colour: blue
@@ -402,7 +402,7 @@ entries:
           unknown:
             - 11
             - 0
-      - text: "这个怪里怪气的小哥\n在卖"
+      - text: "这个怪里怪气的小姐姐\n在卖"
       - control:
           kind: set_colour
           colour: blue

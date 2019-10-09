@@ -112,7 +112,7 @@ entries:
           unknown:
             - 1
             - 9
-      - text: 大哥哥，再见！！
+      - text: 大姐姐，再见！！
   Demo305_0_08:
     attributes: Npc_HighMountain032
     contents:
@@ -279,7 +279,7 @@ entries:
       - text: 塔邦挞小麦
       - control:
           kind: reset_colour
-      - text: "就交给大哥哥了～！\n希望你能做出超级好吃的"
+      - text: "就交给大姐姐了～！\n希望你能做出超级好吃的"
       - control:
           kind: pause
           length: short
@@ -305,7 +305,7 @@ entries:
           unknown:
             - 7
             - 9
-      - text: 接下来就拜托大哥哥啦～♪
+      - text: 接下来就拜托大姐姐啦～♪
   Npc_HighMountain031_S01_003:
     attributes: Npc_HighMountain031
     contents:
@@ -360,7 +360,7 @@ entries:
       - text: 塔邦挞小麦
       - control:
           kind: reset_colour
-      - text: "就交给大哥哥……\n"
+      - text: "就交给大姐姐……\n"
       - control:
           kind: sound
           unknown:
@@ -400,7 +400,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "大哥哥动作真快！\n\n她说没吃到干煎三文鱼之前，"
+      - text: "大姐姐动作真快！\n\n她说没吃到干煎三文鱼之前，"
       - control:
           kind: pause
           length: short
@@ -435,7 +435,7 @@ entries:
   Npc_HighMountain031_S02_002:
     attributes: Npc_HighMountain031
     contents:
-      - text: 大哥哥！要听我们练习的歌吗？
+      - text: 大姐姐！要听我们练习的歌吗？
       - control:
           kind: choice
           choice_labels:
@@ -546,7 +546,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: ……咦？大哥哥有事吗？
+      - text: ……咦？大姐姐有事吗？
       - control:
           kind: pause
           length: longer
@@ -583,7 +583,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 大哥哥，这条
+      - text: 大姐姐，这条
       - control:
           kind: set_colour
           colour: blue
@@ -685,7 +685,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 大哥哥已经给庚珂
+      - text: 大姐姐已经给庚珂
       - control:
           kind: pause
           length: short
@@ -702,7 +702,7 @@ entries:
           unknown:
             - 7
             - 1
-      - text: 哇～谢谢大哥哥！
+      - text: 哇～谢谢大姐姐！
       - control:
           kind: pause
           length: longer
@@ -742,7 +742,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "我会努力不出错，好好地唱！\n大哥哥要听吗？"
+      - text: "我会努力不出错，好好地唱！\n大姐姐要听吗？"
       - control:
           kind: choice
           choice_labels:
@@ -776,7 +776,7 @@ entries:
           unknown:
             - 0
             - 19
-      - text: 大哥哥，
+      - text: 大姐姐，
       - control:
           kind: pause
           length: short
@@ -1142,7 +1142,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 大哥哥，可以帮忙告诉大家
+      - text: 大姐姐，可以帮忙告诉大家
       - control:
           kind: pause
           length: short
@@ -1260,7 +1260,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: ……大哥哥！
+      - text: ……大姐姐！
       - control:
           kind: pause
           length: short
@@ -1418,7 +1418,7 @@ entries:
           unknown:
             - 11
             - 1
-      - text: 呃～大哥哥是第几个啊？
+      - text: 呃～大姐姐是第几个啊？
       - control:
           kind: pause
           length: longer
@@ -1477,7 +1477,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 大哥哥，这块
+      - text: 大姐姐，这块
       - control:
           kind: set_colour
           colour: blue
@@ -1671,7 +1671,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "大哥哥！我正要重新唱一遍，\n你要听吗？"
+      - text: "大姐姐！我正要重新唱一遍，\n你要听吗？"
       - control:
           kind: choice
           choice_labels:
@@ -1707,7 +1707,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 大哥哥，这块
+      - text: 大姐姐，这块
       - control:
           kind: set_colour
           colour: blue
@@ -1851,7 +1851,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "不不，\n是看起来很体贴的大哥哥！\n请帮忙告诉人在利特村的姐姐们，"
+      - text: "不不，\n是看起来很体贴的大姐姐！\n请帮忙告诉人在利特村的姐姐们，"
       - control:
           kind: pause
           length: short
@@ -1861,7 +1861,7 @@ entries:
           unknown:
             - 11
             - 1
-      - text: "虽然我怎么说她们都不来……\n但换成帅气大哥哥开口，或许有机会……？\n"
+      - text: "虽然我怎么说她们都不来……\n但换成漂亮大姐姐开口，或许有机会……？\n"
       - control:
           kind: sound
           unknown:
@@ -2042,7 +2042,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: "谢谢大哥哥～♪\n\n希望庚珂能来练习唱歌就好了～"
+      - text: "谢谢大姐姐～♪\n\n希望庚珂能来练习唱歌就好了～"
       - control:
           kind: pause
           length: short
@@ -2078,7 +2078,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 啊，大哥哥，谢谢你～！
+      - text: 啊，大姐姐，谢谢你～！
       - control:
           kind: pause
           length: longer
@@ -2180,7 +2180,7 @@ entries:
           unknown:
             - 7
             - 9
-      - text: ……对了，大哥哥！
+      - text: ……对了，大姐姐！
       - control:
           kind: raw
           zero:
@@ -2227,7 +2227,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 大哥哥也试着对
+      - text: 大姐姐也试着对
       - control:
           kind: set_colour
           colour: red
@@ -2281,7 +2281,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "大哥哥，\n要好好听听我们唱的歌吗？"
+      - text: "大姐姐，\n要好好听听我们唱的歌吗？"
       - control:
           kind: choice
           choice_labels:

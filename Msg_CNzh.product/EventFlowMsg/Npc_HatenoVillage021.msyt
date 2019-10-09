@@ -83,7 +83,7 @@ entries:
           unknown:
             - 6
             - 4
-      - text: 大哥哥你拿着那个，也就是说……
+      - text: 大姐姐你拿着那个，也就是说……
       - control:
           kind: choice
           choice_labels:

@@ -118,7 +118,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克？
+      - text: 林可？
       - control:
           kind: choice
           choice_labels:
@@ -139,7 +139,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "You真的是林克的话，\nMe就有话得告诉You……\n那么，You能证明自己\n就是真的林克吗？\n"
+      - text: "You真的是林可的话，\nMe就有话得告诉You……\n那么，You能证明自己\n就是真的林可吗？\n"
       - control:
           kind: sound
           unknown:
@@ -152,7 +152,7 @@ entries:
       - text: 身体
       - control:
           kind: reset_colour
-      - text: "上在100年前留下的伤疤，\n应该就能确认You是不是真的林克了。"
+      - text: "上在100年前留下的伤疤，\n应该就能确认You是不是真的林可了。"
   talk02:
     attributes: Npc_AncientDoctor_Hateno
     contents:
@@ -427,7 +427,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\nYou……林克苏醒了。\nThe time has come……"
+      - text: "\nYou……林可苏醒了。\nThe time has come……"
       - control:
           kind: pause
           length: longer
@@ -762,7 +762,7 @@ entries:
           unknown:
             - 10
             - 0
-      - text: You！林克！
+      - text: You！林可！
       - control:
           kind: pause
           length: longer
@@ -905,7 +905,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: 难道是林克！？
+      - text: 难道是林可！？
       - control:
           kind: single_choice
           label: 17
@@ -942,7 +942,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "忙碌！\n和林克睽违100年的重逢，"
+      - text: "忙碌！\n和林可睽违100年的重逢，"
       - control:
           kind: pause
           length: longer
@@ -1000,7 +1000,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: Me就认同You是Really，真的林克吧。
+      - text: Me就认同You是Really，真的林可吧。
       - control:
           kind: pause
           length: longer
@@ -1286,7 +1286,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: "\n\n请原谅Me，林克……\n\nWe研究者自海拉鲁城堡被破坏后，"
+      - text: "\n\n请原谅Me，林可……\n\nWe研究者自海拉鲁城堡被破坏后，"
       - control:
           kind: pause
           length: short

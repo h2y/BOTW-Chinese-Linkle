@@ -56,7 +56,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: 大哥哥！
+      - text: 大姐姐！
   talk01:
     attributes: Npc_Zora011
     contents:
@@ -65,7 +65,7 @@ entries:
           unknown:
             - 1
             - 2
-      - text: 嗨，大哥哥。
+      - text: 嗨，大姐姐。
   talk02:
     attributes: Npc_Zora011
     contents:
@@ -766,7 +766,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "大哥哥，\n你只带了"
+      - text: "大姐姐，\n你只带了"
       - control:
           kind: set_colour
           colour: red
@@ -861,7 +861,7 @@ entries:
           unknown:
             - 11
             - 6
-      - text: ……可是大哥哥，
+      - text: ……可是大姐姐，
       - control:
           kind: pause
           length: short

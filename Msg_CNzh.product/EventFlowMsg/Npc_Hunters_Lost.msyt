@@ -123,7 +123,7 @@ entries:
       - text: 一叶小姐
       - control:
           kind: reset_colour
-      - text: "就是本人。\n啊，你叫……林克对吧？"
+      - text: "就是本人。\n啊，你叫……林可对吧？"
       - control:
           kind: choice
           choice_labels:

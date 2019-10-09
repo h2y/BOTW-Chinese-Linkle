@@ -150,7 +150,7 @@ entries:
       - control:
           kind: set_colour
           colour: blue
-      - text: 林克大人
+      - text: 林可大人
       - control:
           kind: reset_colour
       - text: ……
@@ -601,7 +601,7 @@ entries:
           unknown:
             - 5
             - 17
-      - text: 林克啊……
+      - text: 林可啊……
       - control:
           kind: pause
           length: short
@@ -617,11 +617,11 @@ entries:
           unknown:
             - 1
             - 18
-      - text: ……林克大人……
+      - text: ……林可大人……
       - control:
           kind: pause
           length: short
-      - text: "\n非常感谢。\n多亏林克大人一整天陪在我身边，\n让我有勇气面对盗贼了。\n我也不能老是以泪洗面……\n\n"
+      - text: "\n非常感谢。\n多亏林可大人一整天陪在我身边，\n让我有勇气面对盗贼了。\n我也不能老是以泪洗面……\n\n"
       - control:
           kind: sound
           unknown:
@@ -1034,7 +1034,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: "林克阁下，您要去哪里？\n来，将"
+      - text: "林可阁下，您要去哪里？\n来，将"
       - control:
           kind: set_colour
           colour: blue
@@ -1097,7 +1097,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n林克阁下，那个……"
+      - text: "\n林可阁下，那个……"
   Npc_Kakariko007_S1_001:
     attributes: Npc_Kakariko007
     contents:
@@ -1149,7 +1149,7 @@ entries:
           unknown:
             - 4
             - 22
-      - text: "唔哦！这不是林克阁下吗。\n这、这时候跑来是怎么了吗？"
+      - text: "唔哦！这不是林可阁下吗。\n这、这时候跑来是怎么了吗？"
       - control:
           kind: choice
           choice_labels:
@@ -1215,7 +1215,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克阁下多注意了。
+      - text: 林可阁下多注意了。
   Npc_Kakariko007_S1_002_4:
     attributes: Npc_Kakariko007
     contents:
@@ -1224,7 +1224,7 @@ entries:
           unknown:
             - 10
             - 22
-      - text: 哇！林克阁下！？
+      - text: 哇！林可阁下！？
       - control:
           kind: pause
           length: longer
@@ -1303,7 +1303,7 @@ entries:
           unknown:
             - 4
             - 4
-      - text: 这不是林克阁下吗……
+      - text: 这不是林可阁下吗……
   Npc_Kakariko007_S1_Near001:
     attributes: Npc_Kakariko007
     contents:
@@ -2348,7 +2348,7 @@ entries:
           unknown:
             - 3
             - 12
-      - text: ……林克阁下，
+      - text: ……林可阁下，
       - control:
           kind: raw
           zero:
@@ -2436,7 +2436,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n也请林克阁下多加小心。"
+      - text: "\n也请林可阁下多加小心。"
   Talk04:
     attributes: Npc_Kakariko005
     contents:
@@ -2574,7 +2574,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n但林克阁下在晚上时切勿大意……"
+      - text: "\n但林可阁下在晚上时切勿大意……"
   Talk08:
     attributes: Npc_Kakariko016
     contents:
@@ -2622,7 +2622,7 @@ entries:
           unknown:
             - 11
             - 1
-      - text: ……小哥你该不会是……
+      - text: ……小姐姐你该不会是……
       - control:
           kind: pause
           length: longer
@@ -2649,7 +2649,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 虽然小哥是我喜欢的型……
+      - text: 虽然小姐姐是我喜欢的型……
       - control:
           kind: pause
           length: short
@@ -2661,7 +2661,7 @@ entries:
   Talk10:
     attributes: Npc_Kakariko007
     contents:
-      - text: 相信看到林克阁下，
+      - text: 相信看到林可阁下，
       - control:
           kind: pause
           length: short

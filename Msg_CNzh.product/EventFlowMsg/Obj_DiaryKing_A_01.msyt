@@ -346,7 +346,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "林克啊……\n\n"
+      - text: "林可啊……\n\n"
       - control:
           kind: raw
           one:

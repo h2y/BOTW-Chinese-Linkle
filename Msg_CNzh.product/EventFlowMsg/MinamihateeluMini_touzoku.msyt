@@ -232,7 +232,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n\n这可是至少值1000卢比的独家消息呢。\n算便宜你了，怎么样啊？小哥。"
+      - text: "\n\n这可是至少值1000卢比的独家消息呢。\n算便宜你了，怎么样啊？小姐姐。"
       - control:
           kind: choice
           choice_labels:

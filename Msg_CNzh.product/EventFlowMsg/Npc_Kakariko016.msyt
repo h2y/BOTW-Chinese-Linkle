@@ -61,7 +61,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n小哥感觉是我的菜呢～！"
+      - text: "\n小姐姐感觉是我的菜呢～！"
   Talk_02:
     attributes: Npc_Kakariko016
     contents:
@@ -259,7 +259,7 @@ entries:
           unknown:
             - 1
             - 6
-      - text: "啊，是小哥啊。\n你来找我玩的吗？\n"
+      - text: "啊，是小姐姐啊。\n你来找我玩的吗？\n"
       - control:
           kind: sound
           unknown:
@@ -479,7 +479,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n小哥完全是我的菜呢～！"
+      - text: "\n小姐姐完全是我的菜呢～！"
   Talk_26:
     attributes: Npc_Kakariko016
     contents:
@@ -615,7 +615,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n小哥感觉是我的菜呢～！"
+      - text: "\n小姐姐感觉是我的菜呢～！"
   Talk_33:
     attributes: Npc_Kakariko016
     contents:
@@ -638,7 +638,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n小哥感觉是我的菜呢～！"
+      - text: "\n小姐姐感觉是我的菜呢～！"
   Talk_34:
     attributes: Npc_Kakariko016
     contents:
@@ -651,7 +651,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n但小哥一定是很厉害的人吧。"
+      - text: "\n但小姐姐一定是很厉害的人吧。"
   near00:
     attributes: Npc_Kakariko016
     contents:

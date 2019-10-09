@@ -144,7 +144,7 @@ entries:
           unknown:
             - 3
             - 0
-      - text: "小哥，要是事迹败露，\n他们会追你到天涯海角的！"
+      - text: "小姐姐，要是事迹败露，\n他们会追你到天涯海角的！"
   Npc_Attacked_006_DLC2nd_SD_200:
     attributes: Npc_Attacked_006_DLC2nd
     contents:
@@ -359,7 +359,7 @@ entries:
           unknown:
             - 5
             - 1
-      - text: ……林克，
+      - text: ……林可，
       - control:
           kind: pause
           length: short
@@ -566,7 +566,7 @@ entries:
           unknown:
             - 4
             - 0
-      - text: "林克……\n莫非你打算接受与"
+      - text: "林可……\n莫非你打算接受与"
       - control:
           kind: set_colour
           colour: blue
@@ -623,7 +623,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: long
@@ -698,7 +698,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: long
@@ -1682,7 +1682,7 @@ entries:
           unknown:
             - 4
             - 8
-      - text: 你怎么看都像是穿着女装的大哥哥呀？
+      - text: 你怎么看都像是穿着女装的大姐姐呀？
   Npc_oasis037_SD_010:
     attributes: Npc_oasis037
     contents:
@@ -1723,7 +1723,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: "有事吗？这位小哥……\n你也看到了，人家正忙着取材啦！"
+      - text: "有事吗？这位小姐姐……\n你也看到了，人家正忙着取材啦！"
       - control:
           kind: single_choice
           label: 10
@@ -1735,7 +1735,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: "这位小哥……\n\n难道你不认识人家？"
+      - text: "这位小姐姐……\n\n难道你不认识人家？"
   Npc_oasis037_SD_210:
     attributes: Npc_oasis037
     contents:
@@ -1832,7 +1832,7 @@ entries:
           unknown:
             - 7
             - 8
-      - text: "哦哦，小哥！人家都看见了！\n你打倒了那头"
+      - text: "哦哦，小姐姐！人家都看见了！\n你打倒了那头"
       - control:
           kind: set_colour
           colour: blue
@@ -1852,7 +1852,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: " 真可惜。\n\n你实在太帅气了，\n女性读者一定会爆增……\n"
+      - text: " 真可惜。\n\n你实在太漂亮了，\n男性读者一定会爆增……\n"
       - control:
           kind: sound
           unknown:
@@ -1878,7 +1878,7 @@ entries:
           unknown:
             - 5
             - 16
-      - text: "你实在太帅气了， \n女性读者一定会爆增的说……\n"
+      - text: "你实在太漂亮了， \n男性读者一定会爆增的说……\n"
       - control:
           kind: sound
           unknown:
@@ -1910,7 +1910,7 @@ entries:
           unknown:
             - 7
             - 8
-      - text: "小哥！人家都看见了！\n你打倒了那头"
+      - text: "小姐姐！人家都看见了！\n你打倒了那头"
       - control:
           kind: set_colour
           colour: blue
@@ -1937,7 +1937,7 @@ entries:
       - text: 东格鲁德
       - control:
           kind: reset_colour
-      - text: "遇见的小哥吧？\n……啊，原来如此。"
+      - text: "遇见的小姐姐吧？\n……啊，原来如此。"
       - control:
           kind: pause
           length: long

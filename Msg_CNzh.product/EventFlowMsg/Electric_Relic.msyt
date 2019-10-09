@@ -909,7 +909,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n你叫林克啊……\n来找我是有什么事情吧？\n林克，"
+      - text: "\n你叫林可啊……\n来找我是有什么事情吧？\n林可，"
       - control:
           kind: pause
           length: short
@@ -1087,7 +1087,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n如果我没记错的话……那位剑士……\n好像也和这人一样叫做林克……\n虽然这很难令人相信，不过……"
+      - text: "\n如果我没记错的话……那位剑士……\n好像也和这人一样叫做林可……\n虽然这很难令人相信，不过……"
   Npc_oasis003_Ready_013:
     attributes: Npc_oasis003
     contents:
@@ -1416,7 +1416,7 @@ entries:
       - text: 乌尔波扎大人
       - control:
           kind: reset_colour
-      - text: "……\n请守护我和林克……"
+      - text: "……\n请守护我和林可……"
   Npc_oasis003_Strategy_020:
     attributes: Npc_oasis003
     contents:

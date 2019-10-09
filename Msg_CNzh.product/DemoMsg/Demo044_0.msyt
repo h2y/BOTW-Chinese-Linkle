@@ -199,7 +199,7 @@ entries:
       - text: "4"
       - control:
           kind: reset_colour
-      - text: "个！\n就是这样，兄弟！！"
+      - text: "个！\n就是这样，妹妹。"
       - control:
           kind: pause
           frames: 150
@@ -227,7 +227,7 @@ entries:
       - control:
           kind: pause
           frames: 238
-      - text: "\n……不过，你最好别掉以轻心，兄弟！"
+      - text: "\n……不过，你最好别掉以轻心，妹妹。"
       - control:
           kind: pause
           frames: 91

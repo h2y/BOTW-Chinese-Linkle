@@ -183,7 +183,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "现在要跟妈咪玩～\n大哥哥要等一下～"
+      - text: "现在要跟妈咪玩～\n大姐姐要等一下～"
   Talk17:
     attributes: Npc_Kakariko004
     contents:
@@ -208,7 +208,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "现在要跟爸比玩～\n大哥哥要等一下～"
+      - text: "现在要跟爸比玩～\n大姐姐要等一下～"
   Talk19:
     attributes: Npc_Kakariko004
     contents:
@@ -233,7 +233,7 @@ entries:
           colour: blue
       - control:
           kind: reset_colour
-      - text: "\n不能送给大哥哥了……"
+      - text: "\n不能送给大姐姐了……"
   Talk21:
     attributes: Npc_Kakariko004
     contents:
@@ -335,7 +335,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n大哥哥要等一下～"
+      - text: "\n大姐姐要等一下～"
   Talk26:
     attributes: Npc_Kakariko004
     contents:
@@ -362,13 +362,13 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "大哥哥整理过行李了？\n\n"
+      - text: "大姐姐整理过行李了？\n\n"
       - control:
           kind: sound
           unknown:
             - 7
             - 0
-      - text: "那普莉珂的硬硬的东西\n就送给大哥哥！"
+      - text: "那普莉珂的硬硬的东西\n就送给大姐姐！"
   Talk29:
     attributes: Npc_Kakariko004
     contents:

@@ -369,7 +369,7 @@ entries:
           unknown:
             - 6
             - 0
-      - text: "想不到我有幸目睹\n林克阁下穿上它的一天……"
+      - text: "想不到我有幸目睹\n林可阁下穿上它的一天……"
       - control:
           kind: pause
           length: longer
@@ -490,7 +490,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n林克阁下也请早点休息吧。"
+      - text: "\n林可阁下也请早点休息吧。"
   Talk22:
     attributes: Npc_Kakariko015
     contents:
@@ -499,7 +499,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 您是林克阁下吧……
+      - text: 您是林可阁下吧……
       - control:
           kind: pause
           length: longer
@@ -590,7 +590,7 @@ entries:
           unknown:
             - 1
             - 4
-      - text: 您是林克阁下吧……
+      - text: 您是林可阁下吧……
       - control:
           kind: pause
           length: longer

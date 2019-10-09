@@ -117,7 +117,7 @@ entries:
       - text: 防火药
       - control:
           kind: reset_colour
-      - text: "特别算大哥哥\n"
+      - text: "特别算大姐姐\n"
       - control:
           kind: set_colour
           colour: red
@@ -236,7 +236,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: 大哥哥，来买吧！
+      - text: 大姐姐，来买吧！
       - control:
           kind: choice
           choice_labels:

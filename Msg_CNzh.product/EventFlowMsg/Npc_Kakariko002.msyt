@@ -102,7 +102,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "虽然林克大人从长眠中苏醒了，\n但他却好像失去了记忆……\n"
+      - text: "虽然林可大人从长眠中苏醒了，\n但他却好像失去了记忆……\n"
       - control:
           kind: raw
           one:
@@ -114,7 +114,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "林克大人他英俊威武，仪表堂堂……\n和我心中描绘的勇者一模一样。\n"
+      - text: "林可大人他英俊威武，仪表堂堂……\n和我心中描绘的勇者一模一样。\n"
       - control:
           kind: raw
           one:
@@ -166,13 +166,13 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "那位剑士的名字好像叫做林克。\n"
+      - text: "那位剑士的名字好像叫做林可。\n"
       - control:
           kind: raw
           one:
             two:
               field_1: 0
-      - text: "而且我奶奶至今仍在\n等待着林克大人的归来。\n"
+      - text: "而且我奶奶至今仍在\n等待着林可大人的归来。\n"
       - control:
           kind: raw
           one:
@@ -198,7 +198,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "但现在终于能够正视\n林克大人的眼睛和他说话了。\n"
+      - text: "但现在终于能够正视\n林可大人的眼睛和他说话了。\n"
       - control:
           kind: raw
           one:
@@ -227,7 +227,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "林克大人应该很喜欢\n塞尔达公主吧……\n"
+      - text: "林可大人应该很喜欢\n塞尔达公主吧……\n"
       - control:
           kind: raw
           one:
@@ -291,7 +291,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "林克大人如今身在何处，\n在做些什么呢……\n"
+      - text: "林可大人如今身在何处，\n在做些什么呢……\n"
       - control:
           kind: raw
           one:
@@ -308,7 +308,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: 只要一想起林克大人，我就无法入睡。
+      - text: 只要一想起林可大人，我就无法入睡。
       - control:
           kind: raw
           zero:
@@ -319,7 +319,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: 啊，林克大人……
+      - text: 啊，林可大人……
       - control:
           kind: choice
           choice_labels:
@@ -372,7 +372,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "虽然林克大人从长眠中苏醒了，\n但他却好像失去了记忆……\n"
+      - text: "虽然林可大人从长眠中苏醒了，\n但他却好像失去了记忆……\n"
       - control:
           kind: raw
           one:
@@ -384,7 +384,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "林克大人他英俊威武，仪表堂堂……\n和我心中描绘的勇者一模一样。\n"
+      - text: "林可大人他英俊威武，仪表堂堂……\n和我心中描绘的勇者一模一样。\n"
       - control:
           kind: raw
           one:
@@ -436,7 +436,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "但现在终于能够正视林克大人的\n眼睛和他说话了。\n"
+      - text: "但现在终于能够正视林可大人的\n眼睛和他说话了。\n"
       - control:
           kind: raw
           one:
@@ -466,7 +466,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "林克大人应该很喜欢\n塞尔达公主吧……\n"
+      - text: "林可大人应该很喜欢\n塞尔达公主吧……\n"
       - control:
           kind: raw
           one:
@@ -583,7 +583,7 @@ entries:
           unknown:
             - 4
             - 20
-      - text: 林……林克大人……
+      - text: 林……林可大人……
       - control:
           kind: pause
           length: longer
@@ -791,7 +791,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克大人，对于现在的他们来说，
+      - text: 林可大人，对于现在的他们来说，
       - control:
           kind: pause
           length: short
@@ -936,7 +936,7 @@ entries:
       - text: 大精灵
       - control:
           kind: reset_colour
-      - text: "\n一定可以帮到林克大人的忙。"
+      - text: "\n一定可以帮到林可大人的忙。"
       - control:
           kind: pause
           length: short
@@ -968,7 +968,7 @@ entries:
       - control:
           kind: text_size
           percent: 80
-      - text: 林克大人……
+      - text: 林可大人……
       - control:
           kind: text_size
           percent: 100
@@ -984,7 +984,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n但我们非常欢迎林克大人您来我们这里。\n今后也请常来啊。"
+      - text: "\n但我们非常欢迎林可大人您来我们这里。\n今后也请常来啊。"
   Talk15:
     attributes: Npc_Kakariko001
     contents:
@@ -1046,7 +1046,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 林克啊……
+      - text: 林可啊……
       - control:
           kind: pause
           length: longer
@@ -1064,7 +1064,7 @@ entries:
           unknown:
             - 4
             - 20
-      - text: 林……林克大人。
+      - text: 林……林可大人。
       - control:
           kind: pause
           length: short
@@ -1091,7 +1091,7 @@ entries:
           unknown:
             - 10
             - 0
-      - text: "林……林克大人！？\n都……都这么晚了，您找我有什么事吗？"
+      - text: "林……林可大人！？\n都……都这么晚了，您找我有什么事吗？"
       - control:
           kind: choice
           choice_labels:
@@ -1160,7 +1160,7 @@ entries:
           unknown:
             - 4
             - 20
-      - text: 林……林克大人。
+      - text: 林……林可大人。
       - control:
           kind: raw
           zero:
@@ -1303,7 +1303,7 @@ entries:
           unknown:
             - 4
             - 20
-      - text: 林克大人……您怎么了？
+      - text: 林可大人……您怎么了？
       - control:
           kind: pause
           length: short
@@ -1334,7 +1334,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n林克大人您前进的道路就是我们的方向……\n因为我能做的就只有这么多了……"
+      - text: "\n林可大人您前进的道路就是我们的方向……\n因为我能做的就只有这么多了……"
       - control:
           kind: pause
           length: short
@@ -1346,7 +1346,7 @@ entries:
           unknown:
             - 0
             - 19
-      - text: "林克大人……\n您这是要出去吗？\n怪物会尾随着黑暗而来。"
+      - text: "林可大人……\n您这是要出去吗？\n怪物会尾随着黑暗而来。"
       - control:
           kind: pause
           length: short
@@ -1377,7 +1377,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 但是，多亏了林克大人您，
+      - text: 但是，多亏了林可大人您，
       - control:
           kind: pause
           length: short
@@ -1400,7 +1400,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: "但一想到能帮到林克大人您，\n我心里就非常高兴。\n今后如果有用得着我的地方，"
+      - text: "但一想到能帮到林可大人您，\n我心里就非常高兴。\n今后如果有用得着我的地方，"
       - control:
           kind: pause
           length: short
@@ -1518,7 +1518,7 @@ entries:
           unknown:
             - 4
             - 42
-      - text: "林……林克大人。\n您那样子太不检点了……\n请……请把衣服穿上。"
+      - text: "林……林可大人。\n您那样子太不检点了……\n请……请把衣服穿上。"
   Talk46:
     attributes: Npc_Kakariko002
     contents:
@@ -1555,7 +1555,7 @@ entries:
   TerrorExplosion:
     attributes: ""
     contents:
-      - text: 林、林克大人！！
+      - text: 林、林可大人！！
   TerrorFire:
     attributes: ""
     contents:
@@ -1572,7 +1572,7 @@ entries:
           unknown:
             - 9
             - 0
-      - text: 啊……林克大人……
+      - text: 啊……林可大人……
       - control:
           kind: pause
           length: short
@@ -1646,7 +1646,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n只要帮到了林克大人您，\n就没有比这更能让我高兴的了。"
+      - text: "\n只要帮到了林可大人您，\n就没有比这更能让我高兴的了。"
       - control:
           kind: pause
           length: longer
@@ -1659,7 +1659,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n今后也能保佑林克大人……"
+      - text: "\n今后也能保佑林可大人……"
       - control:
           kind: pause
           length: longer

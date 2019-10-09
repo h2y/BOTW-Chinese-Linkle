@@ -7,7 +7,7 @@ entries:
       - text: 小心那家伙的大剑！
   talk010:
     contents:
-      - text: 干得漂亮，兄弟！
+      - text: 干得漂亮，妹妹！
   talk011:
     contents:
       - text: 起作用了！
@@ -22,7 +22,7 @@ entries:
       - text: 你没事吧？
   talk022:
     contents:
-      - text: 兄弟！
+      - text: 妹妹！
   talk030:
     contents:
       - text: 这攻击力也太惊人了。
@@ -40,7 +40,7 @@ entries:
       - text: 好！干掉它！
   talk042:
     contents:
-      - text: 机会来了，兄弟！
+      - text: 机会来了，妹妹！
   talk050:
     contents:
       - text: 不赶快恢复体力就糟了！
@@ -58,10 +58,10 @@ entries:
       - text: 厉害！
   talk071:
     contents:
-      - text: 兄弟！真有你的！
+      - text: 妹妹！真有你的！
   talk072:
     contents:
-      - text: 不错，兄弟！
+      - text: 不错，妹妹！
   talk080:
     contents:
       - text: 普通攻击现在对那家伙没用！

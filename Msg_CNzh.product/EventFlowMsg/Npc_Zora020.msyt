@@ -88,7 +88,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n你是100年前的林克大人……\n"
+      - text: "\n你是100年前的林可大人……\n"
       - control:
           kind: sound
           unknown:
@@ -128,7 +128,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "林克大人吧！？\n这么问客人是有些失礼……"
+      - text: "林可大人吧！？\n这么问客人是有些失礼……"
       - control:
           kind: pause
           length: short
@@ -156,7 +156,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n林克大人的事，我等等再去问珂答。"
+      - text: "\n林可大人的事，我等等再去问珂答。"
   talk08:
     attributes: Npc_Zora020
     contents:

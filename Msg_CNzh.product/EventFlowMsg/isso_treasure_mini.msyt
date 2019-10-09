@@ -120,7 +120,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n不过小哥你好厉害啊！\n那，"
+      - text: "\n不过小姐姐你好厉害啊！\n那，"
       - control:
           kind: pause
           length: short
@@ -184,7 +184,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "不过我也知道里面放了什么，也算了结一桩心事。\n多谢啦，小哥。"
+      - text: "不过我也知道里面放了什么，也算了结一桩心事。\n多谢啦，小姐姐。"
   NewText_14:
     attributes: Npc_NorthHatelHatago001
     contents:
@@ -206,7 +206,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n多谢啦，小哥。"
+      - text: "\n多谢啦，小姐姐。"
   NewText_16:
     attributes: Npc_NorthHatelHatago001
     contents:
@@ -228,7 +228,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 好厉害啊，小哥！
+      - text: 好厉害啊，小姐姐！
   NewText_18:
     attributes: Npc_NorthHatelHatago001
     contents:
@@ -268,7 +268,7 @@ entries:
           unknown:
             - 10
             - 0
-      - text: 小哥，你很厉害嘛！
+      - text: 小姐姐，你很厉害嘛！
       - control:
           kind: pause
           length: longer
@@ -322,7 +322,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "小哥是何方神圣！？\n你让那个宝箱动起来了吧！？\n"
+      - text: "小姐姐是何方神圣！？\n你让那个宝箱动起来了吧！？\n"
       - control:
           kind: sound
           unknown:
@@ -337,7 +337,7 @@ entries:
           unknown:
             - 5
             - 0
-      - text: 小哥是何方神圣？
+      - text: 小姐姐是何方神圣？
       - control:
           kind: raw
           zero:
@@ -371,7 +371,7 @@ entries:
           unknown:
             - 5
             - 0
-      - text: 小哥是何方神圣？
+      - text: 小姐姐是何方神圣？
       - control:
           kind: raw
           zero:

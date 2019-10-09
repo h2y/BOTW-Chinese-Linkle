@@ -180,7 +180,7 @@ entries:
           unknown:
             - 1
             - 9
-      - text: ……老夫听说了，海利亚的英杰，林克。
+      - text: ……老夫听说了，海利亚的英杰，林可。
       - control:
           kind: pause
           length: longer
@@ -193,7 +193,7 @@ entries:
           unknown:
             - 5
             - 4
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: short

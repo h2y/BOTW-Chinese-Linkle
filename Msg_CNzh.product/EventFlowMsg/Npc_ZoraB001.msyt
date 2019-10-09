@@ -104,7 +104,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: "啊，林克！谢谢你！\n\n"
+      - text: "啊，林可！谢谢你！\n\n"
       - control:
           kind: sound
           unknown:
@@ -167,7 +167,7 @@ entries:
           unknown:
             - 0
             - 9
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           frames: 20
@@ -221,7 +221,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: 林克！你是最出色的海利亚人。
+      - text: 林可！你是最出色的海利亚人。
       - control:
           kind: pause
           frames: 10
@@ -263,7 +263,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 因为林克！
+      - text: 因为林可！
       - control:
           kind: pause
           frames: 20
@@ -286,7 +286,7 @@ entries:
           unknown:
             - 11
             - 1
-      - text: 你在帮助林克战斗吗？
+      - text: 你在帮助林可战斗吗？
       - control:
           kind: pause
           frames: 20
@@ -309,7 +309,7 @@ entries:
           unknown:
             - 10
             - 21
-      - text: "啊，林克！\n\n"
+      - text: "啊，林可！\n\n"
       - control:
           kind: sound
           unknown:
@@ -328,4 +328,4 @@ entries:
           unknown:
             - 0
             - 11
-      - text: "啊，林克……\n让你见笑了啊。"
+      - text: "啊，林可……\n让你见笑了啊。"

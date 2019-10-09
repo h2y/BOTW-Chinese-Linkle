@@ -302,7 +302,7 @@ entries:
           unknown:
             - 3
             - 4
-      - text: 原来大哥哥是个厉害的人呀……
+      - text: 原来大姐姐是个厉害的人呀……
   talk17:
     attributes: Npc_Zora012
     contents:
@@ -321,7 +321,7 @@ entries:
           unknown:
             - 3
             - 11
-      - text: 大哥哥，
+      - text: 大姐姐，
       - control:
           kind: pause
           length: longer
@@ -403,7 +403,7 @@ entries:
           unknown:
             - 0
             - 11
-      - text: 大、大哥哥……
+      - text: 大、大姐姐……
       - control:
           kind: pause
           length: longer

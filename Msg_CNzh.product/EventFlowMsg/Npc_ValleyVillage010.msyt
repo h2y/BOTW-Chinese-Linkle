@@ -520,7 +520,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 那么林克，
+      - text: 那么林可，
       - control:
           kind: pause
           length: longer

@@ -67,7 +67,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n自作聪明……\n怎么了，林克？"
+      - text: "\n自作聪明……\n怎么了，林可？"
       - control:
           kind: pause
           length: longer

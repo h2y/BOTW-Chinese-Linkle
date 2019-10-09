@@ -46,7 +46,7 @@ entries:
       - control:
           kind: text_size
           percent: 125
-      - text: "咳！\n\n你来得正好林克阁下！"
+      - text: "咳！\n\n你来得正好林可阁下！"
       - control:
           kind: choice
           choice_labels:
@@ -124,7 +124,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 顺道一提，林克是100年前
+      - text: 顺道一提，林可是100年前
       - control:
           kind: pause
           length: short

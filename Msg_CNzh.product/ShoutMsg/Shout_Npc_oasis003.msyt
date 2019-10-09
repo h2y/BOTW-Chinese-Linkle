@@ -13,7 +13,7 @@ entries:
       - control:
           kind: animation
           name: CustomBroken01
-      - text: 厉害！林克！
+      - text: 厉害！林可！
   Broken_02:
     contents:
       - control:
@@ -37,13 +37,13 @@ entries:
       - control:
           kind: animation
           name: CustomChance00
-      - text: 趁现在！林克！
+      - text: 趁现在！林可！
   Chance_01:
     contents:
       - control:
           kind: animation
           name: CustomChance01
-      - text: 瞄准它的脚！林克！
+      - text: 瞄准它的脚！林可！
   Chance_02:
     contents:
       - control:
@@ -103,7 +103,7 @@ entries:
       - control:
           kind: animation
           name: CustomLead01
-      - text: 这里！林克！
+      - text: 这里！林可！
   Lead_02:
     contents:
       - control:
@@ -181,13 +181,13 @@ entries:
       - control:
           kind: animation
           name: CustomRetreat04
-      - text: 林克，你要去哪里？
+      - text: 林可，你要去哪里？
   Warn_00:
     contents:
       - control:
           kind: animation
           name: CustomWarn00
-      - text: 别离开我身边，林克！
+      - text: 别离开我身边，林可！
   Warn_01:
     contents:
       - control:
@@ -229,7 +229,7 @@ entries:
       - control:
           kind: animation
           name: CustomWorry02
-      - text: 林克——！！
+      - text: 林可——！！
   Worry_03:
     contents:
       - control:

@@ -573,7 +573,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: "谢谢大哥哥帮忙，\n让桃虹知道白鸟的重要东西是什么了啾！\n"
+      - text: "谢谢大姐姐帮忙，\n让桃虹知道白鸟的重要东西是什么了啾！\n"
       - control:
           kind: sound
           unknown:

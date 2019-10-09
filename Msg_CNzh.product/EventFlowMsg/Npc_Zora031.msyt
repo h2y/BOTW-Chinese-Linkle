@@ -73,7 +73,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克大人。
+      - text: 林可大人。
   talk04:
     attributes: Npc_Zora031
     contents:
@@ -155,7 +155,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "林克大人\n还是别和那些爷爷辈讲话比较好……\n"
+      - text: "林可大人\n还是别和那些爷爷辈讲话比较好……\n"
       - control:
           kind: sound
           unknown:
@@ -189,7 +189,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "林克大人\n又要跟"
+      - text: "林可大人\n又要跟"
       - control:
           kind: set_colour
           colour: red
@@ -212,7 +212,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "林克大人……\n\n你不记得自己曾在100年前，与米法大人一同"
+      - text: "林可大人……\n\n你不记得自己曾在100年前，与米法大人一同"
       - control:
           kind: pause
           length: short
@@ -229,7 +229,7 @@ entries:
           unknown:
             - 11
             - 1
-      - text: 林克大人……
+      - text: 林可大人……
       - control:
           kind: pause
           length: short
@@ -345,7 +345,7 @@ entries:
       - text: 祭祀之枪
       - control:
           kind: reset_colour
-      - text: "，\n负责统筹英杰祭卓啦。\n不过，包含摩尔登在内，我劝林克大人还是"
+      - text: "，\n负责统筹英杰祭卓啦。\n不过，包含摩尔登在内，我劝林可大人还是"
       - control:
           kind: pause
           length: short
@@ -353,7 +353,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "林克大人\n是无辜的卓啦。"
+      - text: "林可大人\n是无辜的卓啦。"
   talk13:
     attributes: Npc_Zora031
     contents:
@@ -541,7 +541,7 @@ entries:
           unknown:
             - 10
             - 22
-      - text: 林克大人！？
+      - text: 林可大人！？
       - control:
           kind: text_size
           percent: 100
@@ -551,4 +551,4 @@ entries:
           unknown:
             - 4
             - 1
-      - text: 是海利亚的英杰林克大人卓啦！
+      - text: 是海利亚的英杰林可大人卓啦！

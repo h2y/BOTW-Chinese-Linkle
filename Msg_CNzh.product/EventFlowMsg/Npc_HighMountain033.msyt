@@ -18,7 +18,7 @@ entries:
           unknown:
             - 11
             - 0
-      - text: ……大哥哥是谁？
+      - text: ……大姐姐是谁？
       - control:
           kind: pause
           length: long
@@ -26,7 +26,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "是哦……\n大哥哥可以让天上的鸟怪变得听话吗？"
+      - text: "是哦……\n大姐姐可以让天上的鸟怪变得听话吗？"
       - control:
           kind: choice
           choice_labels:
@@ -78,7 +78,7 @@ entries:
           unknown:
             - 0
             - 18
-      - text: "唔～嗯……大哥哥看起来\n不像特巴叔叔那么强……\n就算去找"
+      - text: "唔～嗯……大姐姐看起来\n不像特巴叔叔那么强……\n就算去找"
       - control:
           kind: set_colour
           colour: blue
@@ -153,19 +153,19 @@ entries:
           unknown:
             - 7
             - 2
-      - text: "啊！大哥哥！\n嘿嘿嘿，我有乖乖练习呢！\n"
+      - text: "啊！大姐姐！\n嘿嘿嘿，我有乖乖练习呢！\n"
       - control:
           kind: sound
           unknown:
             - 3
             - 0
-      - text: "如果大哥哥没有来找奇尔的话……\n\n我可能会一直耍性子也说不定……\n\n"
+      - text: "如果大姐姐没有来找奇尔的话……\n\n我可能会一直耍性子也说不定……\n\n"
       - control:
           kind: sound
           unknown:
             - 7
             - 9
-      - text: "……谢谢大哥哥！\n我不会再耍性子了！"
+      - text: "……谢谢大姐姐！\n我不会再耍性子了！"
   Talk_101:
     attributes: Npc_HighMountain033
     contents:
@@ -238,14 +238,14 @@ entries:
           unknown:
             - 7
             - 2
-      - text: "啊！大哥哥！\n我有乖乖跟爸爸一起练习呢！\n我告诉爸爸"
+      - text: "啊！大姐姐！\n我有乖乖跟爸爸一起练习呢！\n我告诉爸爸"
       - control:
           kind: set_colour
           colour: red
       - text: 兄弟岩
       - control:
           kind: reset_colour
-      - text: "有座神庙之后，\n爸爸也告诉我大哥哥的事了！\n神庙有很多对吧！\n不知道它们是几兄弟呢～？\n"
+      - text: "有座神庙之后，\n爸爸也告诉我大姐姐的事了！\n神庙有很多对吧！\n不知道它们是几兄弟呢～？\n"
       - control:
           kind: sound2
           unknown:
@@ -294,7 +294,7 @@ entries:
           unknown:
             - 11
             - 19
-      - text: "奇怪……大哥哥……\n你好像变得很帅呢……\n"
+      - text: "奇怪……大姐姐……\n你好像变得很帅呢……\n"
       - control:
           kind: sound
           unknown:
@@ -321,4 +321,4 @@ entries:
           unknown:
             - 11
             - 0
-      - text: "大哥哥怎么了？\n一脸肚子饿扁的样子……"
+      - text: "大姐姐怎么了？\n一脸肚子饿扁的样子……"

@@ -110,7 +110,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "因为有大哥哥努力帮忙，\n大家又能和乐融融、精神百倍地唱歌啦～！\n"
+      - text: "因为有大姐姐努力帮忙，\n大家又能和乐融融、精神百倍地唱歌啦～！\n"
       - control:
           kind: sound
           unknown:
@@ -125,7 +125,7 @@ entries:
           unknown:
             - 6
             - 0
-      - text: "神庙只有大哥哥才能进去吧。\n\n格里戈莉也进不去那边的神庙……\n真可惜……"
+      - text: "神庙只有大姐姐才能进去吧。\n\n格里戈莉也进不去那边的神庙……\n真可惜……"
   Talk_110:
     attributes: Npc_HighMountain034
     contents:

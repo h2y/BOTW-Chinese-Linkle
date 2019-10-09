@@ -1904,7 +1904,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n是因为在满足所有条件的情况下，勇者林克……\n"
+      - text: "\n是因为在满足所有条件的情况下，勇者林可……\n"
       - control:
           kind: sound
           unknown:
@@ -2015,7 +2015,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n所以激活它们的不是别人，正是你林克！\n听到这里，你是不是有一种\n"
+      - text: "\n所以激活它们的不是别人，正是你林可！\n听到这里，你是不是有一种\n"
       - control:
           kind: set_colour
           colour: red

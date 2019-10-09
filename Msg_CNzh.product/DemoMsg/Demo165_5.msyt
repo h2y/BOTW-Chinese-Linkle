@@ -15,11 +15,11 @@ entries:
       - control:
           kind: text_size
           percent: 80
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: text_size
           percent: 100
-      - text: "\n\n林克……\n\n你要小心……"
+      - text: "\n\n林可……\n\n你要小心……"
   Demo165_5_Text001:
     contents:
       - text: "红月来临之际……\n\n正是盖侬充满魔力之时……"
@@ -28,4 +28,4 @@ entries:
       - text: "在大地上徘徊的怪物灵魂\n将再次回归肉体……"
   Demo165_5_Text003:
     contents:
-      - text: "林克……\n你要小心……"
+      - text: "林可……\n你要小心……"

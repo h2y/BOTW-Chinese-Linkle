@@ -146,7 +146,7 @@ entries:
           unknown:
             - 7
             - 205
-      - text: 林克先生对吧？
+      - text: 林可先生对吧？
   Talk06:
     attributes: Npc_Assassin_010
     contents:
@@ -168,4 +168,4 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: 林克先生。
+      - text: 林可先生。

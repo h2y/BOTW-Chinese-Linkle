@@ -37,7 +37,7 @@ entries:
       - control:
           kind: text_size
           percent: 125
-      - text: 嘎哈哈！小哥！！
+      - text: 嘎哈哈！小姐姐！！
       - control:
           kind: text_size
           percent: 100
@@ -47,7 +47,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 小哥你也是要那个吧！？
+      - text: 小姐姐你也是要那个吧！？
       - control:
           kind: choice
           choice_labels:
@@ -70,7 +70,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n小哥是有超能力吗！！？"
+      - text: "\n小姐姐是有超能力吗！！？"
   talk_02:
     attributes: Npc_RitoHatago003
     contents:
@@ -156,7 +156,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "会死人的！\n所以小哥也要小心啊！\n\n"
+      - text: "会死人的！\n所以小姐姐也要小心啊！\n\n"
       - control:
           kind: text_size
           percent: 125
@@ -205,7 +205,7 @@ entries:
       - control:
           kind: text_size
           percent: 125
-      - text: 嘎哈哈！小哥！！
+      - text: 嘎哈哈！小姐姐！！
       - control:
           kind: text_size
           percent: 100
@@ -215,7 +215,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 小哥已经爬过
+      - text: 小姐姐已经爬过
       - control:
           kind: set_colour
           colour: blue
@@ -338,7 +338,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 又见到小哥啦！！
+      - text: 又见到小姐姐啦！！
       - control:
           kind: pause
           length: longer
@@ -399,4 +399,4 @@ entries:
           unknown:
             - 7
             - 2
-      - text: 嗨！小哥。
+      - text: 嗨！小姐姐。

@@ -115,7 +115,7 @@ entries:
           unknown:
             - 7
             - 11
-      - text: 唔！林克！
+      - text: 唔！林可！
       - control:
           kind: pause
           frames: 20

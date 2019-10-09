@@ -560,7 +560,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n小哥，想要挑战我，你还早100年呢～"
+      - text: "\n小姐姐，想要挑战我，你还早100年呢～"
   AtGoal_00_00:
     attributes: Npc_MiniGame_Crosscountry
     contents:
@@ -579,7 +579,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 小哥，
+      - text: 小姐姐，
       - control:
           kind: pause
           length: short
@@ -610,7 +610,7 @@ entries:
           unknown:
             - 3
             - 16
-      - text: 小哥的时间是
+      - text: 小姐姐的时间是
       - control:
           kind: set_colour
           colour: red
@@ -700,7 +700,7 @@ entries:
           zero:
             four:
               field_1: 0
-      - text: "虽说小哥也挺努力的，\n但想赢过我，还得多多锻炼才行！"
+      - text: "虽说小姐姐也挺努力的，\n但想赢过我，还得多多锻炼才行！"
   AtGoal_02:
     attributes: Npc_MiniGame_Crosscountry
     contents:
@@ -903,7 +903,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 小哥！
+      - text: 小姐姐！
       - control:
           kind: pause
           length: short

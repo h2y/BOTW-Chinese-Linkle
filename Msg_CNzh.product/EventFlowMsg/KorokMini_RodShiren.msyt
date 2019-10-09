@@ -273,7 +273,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "还要帅呢！\n"
+      - text: "还要漂亮呢！\n"
       - control:
           kind: sound
           unknown:
@@ -399,7 +399,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n肯定会变得又强又帅气！"
+      - text: "\n肯定会变得又强又漂亮！"
   Npc_kokiri012_R_Talk030:
     attributes: Npc_kokiri012
     contents:

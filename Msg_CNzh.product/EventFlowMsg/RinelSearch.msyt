@@ -89,7 +89,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克先生吧？
+      - text: 林可先生吧？
       - control:
           kind: choice
           choice_labels:
@@ -110,7 +110,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n一直嚷嚷着要和一个\n名叫林克的海利亚人去阻止神兽！\n\n"
+      - text: "\n一直嚷嚷着要和一个\n名叫林可的海利亚人去阻止神兽！\n\n"
       - control:
           kind: sound
           unknown:
@@ -243,7 +243,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: 林克先生……
+      - text: 林可先生……
       - control:
           kind: pause
           length: short
@@ -565,7 +565,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n林克先生……"
+      - text: "\n林可先生……"
   talk20:
     attributes: Npc_Zora015
     contents:
@@ -726,7 +726,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: 林克先生……
+      - text: 林可先生……
       - control:
           kind: pause
           length: longer
@@ -867,7 +867,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n林克先生的袋子已经满了呢。\n等防具袋清出空间后，"
+      - text: "\n林可先生的袋子已经满了呢。\n等防具袋清出空间后，"
       - control:
           kind: pause
           length: short
@@ -880,7 +880,7 @@ entries:
           unknown:
             - 0
             - 11
-      - text: 林克先生，
+      - text: 林可先生，
       - control:
           kind: pause
           length: short
@@ -912,7 +912,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克先生……
+      - text: 林可先生……
       - control:
           kind: pause
           length: short
@@ -931,7 +931,7 @@ entries:
           unknown:
             - 0
             - 16
-      - text: 林克先生……
+      - text: 林可先生……
       - control:
           kind: pause
           length: short
@@ -948,7 +948,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n果然还是不适合拜托林克先生。\n"
+      - text: "\n果然还是不适合拜托林可先生。\n"
       - control:
           kind: sound
           unknown:
@@ -967,7 +967,7 @@ entries:
           unknown:
             - 0
             - 1
-      - text: 话说回来，林克先生……
+      - text: 话说回来，林可先生……
       - control:
           kind: pause
           length: longer

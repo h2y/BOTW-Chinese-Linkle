@@ -1973,7 +1973,7 @@ entries:
           unknown:
             - 1
             - 10
-      - text: 等你好久了卓，林克！
+      - text: 等你好久了卓，林可！
       - control:
           kind: text_size
           percent: 100
@@ -2039,7 +2039,7 @@ entries:
       - control:
           kind: pause
           frames: 10
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: text_size
           percent: 100
@@ -2121,7 +2121,7 @@ entries:
       - control:
           kind: text_size
           percent: 125
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: text_size
           percent: 100
@@ -2141,7 +2141,7 @@ entries:
       - control:
           kind: text_size
           percent: 125
-      - text: 林克，我相信你卓！
+      - text: 林可，我相信你卓！
       - control:
           kind: text_size
           percent: 100
@@ -2160,7 +2160,7 @@ entries:
       - control:
           kind: pause
           frames: 20
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: text_size
           percent: 100
@@ -2213,7 +2213,7 @@ entries:
       - control:
           kind: pause
           frames: 10
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: raw
           zero:
@@ -2319,7 +2319,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 我一直在找像林克你这样浑身上下
+      - text: 我一直在找像林可你这样浑身上下
       - control:
           kind: pause
           frames: 20
@@ -2449,13 +2449,13 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 林克！？
+      - text: 林可！？
       - control:
           kind: raw
           zero:
             four:
               field_1: 0
-      - text: 林克啊！
+      - text: 林可啊！
       - control:
           kind: pause
           frames: 22
@@ -2469,7 +2469,7 @@ entries:
       - control:
           kind: animation
           name: CustomPose
-      - text: 谢谢你，林克！
+      - text: 谢谢你，林可！
       - control:
           kind: pause
           frames: 20
@@ -2586,7 +2586,7 @@ entries:
           unknown:
             - 0
             - 20
-      - text: 林克！
+      - text: 林可！
       - control:
           kind: pause
           frames: 20

@@ -427,13 +427,13 @@ entries:
       - text: "由依盖队制作而成的凶器。\n为了确保能将目标一击毙命而经过\n特别处理的形状令见者闻风丧胆。"
   Weapon_Sword_080_Desc:
     contents:
-      - text: "能对抗灾厄的传说中的驱魔之剑。\n经过剑的试练后，随着林克的成长，\n剑身比以前更加闪闪发光了。"
+      - text: "能对抗灾厄的传说中的驱魔之剑。\n经过剑的试练后，随着林可的成长，\n剑身比以前更加闪闪发光了。"
   Weapon_Sword_080_Name:
     contents:
       - text: 大师之剑
   Weapon_Sword_081_Desc:
     contents:
-      - text: "对抗灾厄的传说中的驱魔之剑。\n经过全部剑的试练后，随着林克的成长，\n剑身放射出真正的夺目光辉。"
+      - text: "对抗灾厄的传说中的驱魔之剑。\n经过全部剑的试练后，随着林可的成长，\n剑身放射出真正的夺目光辉。"
   Weapon_Sword_081_Name:
     contents:
       - text: 大师之剑

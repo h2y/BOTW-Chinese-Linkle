@@ -57,7 +57,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 天气这么差，大哥哥还帮我带
+      - text: 天气这么差，大姐姐还帮我带
       - control:
           kind: set_colour
           colour: red
@@ -127,7 +127,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n我有件事想拜托大哥哥！"
+      - text: "\n我有件事想拜托大姐姐！"
       - control:
           kind: pause
           length: short
@@ -156,7 +156,7 @@ entries:
           unknown:
             - 0
             - 1
-      - text: 大哥哥！
+      - text: 大姐姐！
       - control:
           kind: pause
           length: long
@@ -178,7 +178,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n我就把来自天空的宝物当谢礼送给大哥哥！"
+      - text: "\n我就把来自天空的宝物当谢礼送给大姐姐！"
       - control:
           kind: choice
           choice_labels:
@@ -199,7 +199,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n不过大哥哥！"
+      - text: "\n不过大姐姐！"
       - control:
           kind: pause
           length: long
@@ -236,7 +236,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 大哥哥在雨中帮我带
+      - text: 大姐姐在雨中帮我带
       - control:
           kind: set_colour
           colour: red
@@ -247,7 +247,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n大哥哥也是好孩子！"
+      - text: "\n大姐姐也是好孩子！"
   Talk_0010:
     attributes: Npc_HyrulePlain004
     contents:
@@ -256,7 +256,7 @@ entries:
           unknown:
             - 7
             - 9
-      - text: 哇～！大哥哥帮我带
+      - text: 哇～！大姐姐帮我带
       - control:
           kind: pause
           length: short
@@ -303,7 +303,7 @@ entries:
           unknown:
             - 1
             - 9
-      - text: 谢谢大哥哥！
+      - text: 谢谢大姐姐！
       - control:
           kind: pause
           length: long

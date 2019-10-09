@@ -188,7 +188,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 大哥哥……
+      - text: 大姐姐……
       - control:
           kind: single_choice
           label: 0
@@ -413,7 +413,7 @@ entries:
           unknown:
             - 11
             - 0
-      - text: 但是大哥哥
+      - text: 但是大姐姐
       - control:
           kind: pause
           length: short

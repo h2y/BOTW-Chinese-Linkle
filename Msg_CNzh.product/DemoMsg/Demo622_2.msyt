@@ -25,7 +25,7 @@ entries:
       - control:
           kind: auto_advance
           frames: 298
-      - text: "林克，你现在肯定不会输给盖侬了。\n我的祈福也会助你一臂之力的……"
+      - text: "林可，你现在肯定不会输给盖侬了。\n我的祈福也会助你一臂之力的……"
   Npc_Zora_Hero_talk120:
     contents:
       - control:
@@ -67,7 +67,7 @@ entries:
       - control:
           kind: auto_advance
           frames: 176
-      - text: "……林克，\n如果……今后你在别处……"
+      - text: "……林可，\n如果……今后你在别处……"
   Npc_Zora_Hero_talk310:
     contents:
       - control:
@@ -97,7 +97,7 @@ entries:
       - control:
           kind: auto_advance
           frames: 204
-      - text: "……林克，你还记得我们一起\n击退怪物时的事情吗？"
+      - text: "……林可，你还记得我们一起\n击退怪物时的事情吗？"
   Npc_Zora_Hero_talk410:
     contents:
       - control:
@@ -121,7 +121,7 @@ entries:
       - control:
           kind: auto_advance
           frames: 238
-      - text: "对了，林克……关于100年前领地里的\n那些回忆，你还记得多少？"
+      - text: "对了，林可……关于100年前领地里的\n那些回忆，你还记得多少？"
   Npc_Zora_Hero_talk510:
     contents:
       - control:

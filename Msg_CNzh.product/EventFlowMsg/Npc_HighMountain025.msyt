@@ -45,7 +45,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n小哥想必很累吧！？"
+      - text: "\n小姐姐想必很累吧！？"
   talk01:
     attributes: Npc_HighMountain025
     contents:
@@ -74,7 +74,7 @@ entries:
           unknown:
             - 0
             - 16
-      - text: 小哥你还没看过吗？
+      - text: 小姐姐你还没看过吗？
       - control:
           kind: pause
           length: longer
@@ -241,7 +241,7 @@ entries:
           unknown:
             - 6
             - 2
-      - text: "好，该继续工作了。\n\n小哥，本店……"
+      - text: "好，该继续工作了。\n\n小姐姐，本店……"
       - control:
           kind: pause
           length: short

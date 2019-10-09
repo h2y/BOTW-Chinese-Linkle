@@ -67,7 +67,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "闪亮亮！\n帅气的勇者大人，"
+      - text: "闪亮亮！\n美丽的勇者大人，"
       - control:
           kind: pause
           length: short

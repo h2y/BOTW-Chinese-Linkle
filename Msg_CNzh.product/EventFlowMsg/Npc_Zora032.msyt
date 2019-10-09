@@ -98,7 +98,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: 你是林克大人本尊卓啦！
+      - text: 你是林可大人本尊卓啦！
       - control:
           kind: choice
           choice_labels:
@@ -188,7 +188,7 @@ entries:
           unknown:
             - 0
             - 1
-      - text: 不说这些了，林克大人……
+      - text: 不说这些了，林可大人……
       - control:
           kind: pause
           length: longer
@@ -218,7 +218,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: 怎么了卓啦？林克大人？
+      - text: 怎么了卓啦？林可大人？
       - control:
           kind: raw
           one:
@@ -293,7 +293,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n\n100年前我经常请林克大人"
+      - text: "\n\n100年前我经常请林可大人"
       - control:
           kind: pause
           length: longer
@@ -334,7 +334,7 @@ entries:
           unknown:
             - 4
             - 20
-      - text: 林克大人……
+      - text: 林可大人……
       - control:
           kind: pause
           length: longer
@@ -352,7 +352,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n米法大人对林克大人……\n……\n\n"
+      - text: "\n米法大人对林可大人……\n……\n\n"
       - control:
           kind: sound
           unknown:
@@ -525,7 +525,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: 林克大人，
+      - text: 林可大人，
       - control:
           kind: pause
           length: short
@@ -615,7 +615,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: 那林克大人
+      - text: 那林可大人
       - control:
           kind: pause
           length: short
@@ -709,7 +709,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: 林克大人对我恩重如山卓啦。
+      - text: 林可大人对我恩重如山卓啦。
   talk31:
     attributes: Npc_Zora032
     contents:
@@ -744,7 +744,7 @@ entries:
           unknown:
             - 7
             - 22
-      - text: 林克大人！
+      - text: 林可大人！
       - control:
           kind: text_size
           percent: 100
@@ -759,7 +759,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n原来是相隔100年再次现身的林克大人卓啦！"
+      - text: "\n原来是相隔100年再次现身的林可大人卓啦！"
   talk33:
     attributes: Npc_Zora032
     contents:
@@ -801,7 +801,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 林克大人，谢谢你卓啦！
+      - text: 林可大人，谢谢你卓啦！
   talk37:
     attributes: Npc_Zora032
     contents:

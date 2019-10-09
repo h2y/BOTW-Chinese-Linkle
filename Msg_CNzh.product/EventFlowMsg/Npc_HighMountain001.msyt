@@ -129,7 +129,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 大哥哥。
+      - text: 大姐姐。
   Talk_06:
     attributes: Npc_HighMountain001
     contents:
@@ -142,7 +142,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 打招呼很怪的大哥哥。
+      - text: 打招呼很怪的大姐姐。
   Talk_07:
     attributes: Npc_HighMountain001
     contents:
@@ -448,7 +448,7 @@ entries:
           unknown:
             - 1
             - 1
-      - text: 大哥哥如果有空，
+      - text: 大姐姐如果有空，
       - control:
           kind: pause
           length: short
@@ -474,7 +474,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: 大哥哥！
+      - text: 大姐姐！
       - control:
           kind: pause
           length: short

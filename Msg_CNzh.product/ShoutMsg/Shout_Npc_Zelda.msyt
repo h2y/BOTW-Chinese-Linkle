@@ -10,13 +10,13 @@ entries:
       - text: "我去抑制那些怨念……虽然我力量微薄，\n只能支撑一会……请你瞄准发光的地方射箭。"
   Shout_Zelda_Text021:
     contents:
-      - text: 林克……祝你克敌制胜！
+      - text: 林可……祝你克敌制胜！
   Shout_Zelda_Text030:
     contents:
       - text: "就是现在！\n我已经抑制住怨念了！"
   Shout_Zelda_Text031:
     contents:
-      - text: 林克，就是现在！
+      - text: 林可，就是现在！
   Shout_Zelda_Text032:
     contents:
       - text: 就是现在！
@@ -40,7 +40,7 @@ entries:
       - text: 请射击发光的地方！
   Shout_Zelda_Text039:
     contents:
-      - text: "林克！\n瞄准发光的地方！"
+      - text: "林可！\n瞄准发光的地方！"
   Shout_Zelda_Text040:
     contents:
       - text: "对不起……\n我已经……撑不住了……"
@@ -64,10 +64,10 @@ entries:
       - text: "我会再次抑制怨念！\n你做好准备！！"
   Shout_Zelda_Text071:
     contents:
-      - text: "林克，你准备好！\n我会再次抑制怨念！"
+      - text: "林可，你准备好！\n我会再次抑制怨念！"
   Shout_Zelda_Text072:
     contents:
-      - text: "做好准备，林克！\n我会再次抑制怨念！"
+      - text: "做好准备，林可！\n我会再次抑制怨念！"
   Shout_Zelda_Text080:
     contents:
       - text: 盖侬的力量减弱了！
@@ -79,25 +79,25 @@ entries:
       - text: "还差一点了！\n还差一点就能将盖侬……！"
   Shout_Zelda_Text090:
     contents:
-      - text: "林克！\n快看啊……盖侬的头上！"
+      - text: "林可！\n快看啊……盖侬的头上！"
   Shout_Zelda_Text091:
     contents:
-      - text: "那是盖侬的核心！\n林克……一切就都拜托你了！"
+      - text: "那是盖侬的核心！\n林可……一切就都拜托你了！"
   Shout_Zelda_Text100:
     contents:
       - text: 要懂得利用盖侬的攻击！
   Shout_Zelda_Text101:
     contents:
-      - text: "林克……\n要利用气流！"
+      - text: "林可……\n要利用气流！"
   Shout_Zelda_Text104:
     contents:
       - text: 从空中用弓箭给它最后一击！
   Shout_Zelda_Text110:
     contents:
-      - text: "林克！\n最后一击！"
+      - text: "林可！\n最后一击！"
   Shout_Zelda_Text111:
     contents:
-      - text: "林克！\n就是现在！"
+      - text: "林可！\n就是现在！"
   Shout_Zelda_Text112:
     contents:
-      - text: "林克！\n打倒盖侬！"
+      - text: "林可！\n打倒盖侬！"

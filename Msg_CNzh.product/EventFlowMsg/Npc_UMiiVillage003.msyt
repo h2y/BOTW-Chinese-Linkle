@@ -210,7 +210,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n就会很有力气，像这样子！\n大哥哥也吃一次看看吧！"
+      - text: "\n就会很有力气，像这样子！\n大姐姐也吃一次看看吧！"
   talk13:
     attributes: Npc_UMiiVillage003
     contents:
@@ -236,7 +236,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n身体变得好有活力！\n大哥哥要是觉得没什么活力时，"
+      - text: "\n身体变得好有活力！\n大姐姐要是觉得没什么活力时，"
       - control:
           kind: pause
           length: short
@@ -401,7 +401,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: 是旅行的大哥哥！
+      - text: 是旅行的大姐姐！
       - control:
           kind: pause
           length: longer

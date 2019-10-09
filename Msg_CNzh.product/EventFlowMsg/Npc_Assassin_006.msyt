@@ -17,7 +17,7 @@ entries:
   "0003":
     attributes: ""
     contents:
-      - text: 林克
+      - text: 林可
   Henshin00:
     attributes: Npc_Assassin_006
     contents:
@@ -235,7 +235,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n林克先生。"
+      - text: "\n林可先生。"
   Talk05:
     attributes: Npc_Assassin_006
     contents:
@@ -244,4 +244,4 @@ entries:
           unknown:
             - 1
             - 10
-      - text: 又见面了呢，林克先生。
+      - text: 又见面了呢，林可先生。

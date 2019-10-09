@@ -262,7 +262,7 @@ entries:
           unknown:
             - 9
             - 205
-      - text: 小哥多谢了。
+      - text: 小姐姐多谢了。
   Com_Talk_12:
     attributes: ""
     contents:
@@ -941,7 +941,7 @@ entries:
           unknown:
             - 1
             - 9
-      - text: 还是说小哥……
+      - text: 还是说小姐姐……
       - control:
           kind: pause
           length: long
@@ -954,7 +954,7 @@ entries:
           unknown:
             - 1
             - 4
-      - text: 小哥，
+      - text: 小姐姐，
       - control:
           kind: pause
           length: short

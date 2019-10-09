@@ -71,7 +71,7 @@ entries:
           unknown:
             - 1
             - 9
-      - text: "嘿嘿，谢谢你总是帮忙啊……\n\n但是，这样就好了吗？\n\n小哥……"
+      - text: "嘿嘿，谢谢你总是帮忙啊……\n\n但是，这样就好了吗？\n\n小姐姐……"
       - control:
           kind: pause
           length: longer

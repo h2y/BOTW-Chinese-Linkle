@@ -37,7 +37,7 @@ entries:
       - control:
           kind: text_size
           percent: 80
-      - text: "哎，希巴……\n\n站在那里的大哥哥，\n是不是对马有兴趣啊？"
+      - text: "哎，希巴……\n\n站在那里的大姐姐，\n是不是对马有兴趣啊？"
       - control:
           kind: text_size
           percent: 100
@@ -111,7 +111,7 @@ entries:
           unknown:
             - 1
             - 10
-      - text: 大哥哥懂了吗？
+      - text: 大姐姐懂了吗？
   talk10:
     attributes: Npc_SouthHateru005
     contents:
@@ -254,7 +254,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "看你的眼神就知道了！\n\n大哥哥，\n你脑海里全都是马的事吧？"
+      - text: "看你的眼神就知道了！\n\n大姐姐，\n你脑海里全都是马的事吧？"
   talk18:
     attributes: Npc_SouthHateru005
     contents:
@@ -267,7 +267,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "看你的眼神就知道了！\n\n大哥哥你现在的脑海里，"
+      - text: "看你的眼神就知道了！\n\n大姐姐你现在的脑海里，"
       - control:
           kind: pause
           length: short
@@ -402,7 +402,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 啊，希巴，是那个不是双胞胎的大哥哥！
+      - text: 啊，希巴，是那个不是双胞胎的大姐姐！
   talk28:
     attributes: Npc_SouthHateru005
     contents:
@@ -411,7 +411,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 啊，达特，是那个不是双胞胎的大哥哥！
+      - text: 啊，达特，是那个不是双胞胎的大姐姐！
   talk29:
     attributes: Npc_HutagoHatago_002
     contents:

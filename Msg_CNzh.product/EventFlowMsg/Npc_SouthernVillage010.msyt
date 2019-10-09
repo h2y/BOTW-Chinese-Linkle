@@ -46,7 +46,7 @@ entries:
           unknown:
             - 6
             - 0
-      - text: "哦！小哥！\n来观光吗～？"
+      - text: "哦！小姐姐！\n来观光吗～？"
       - control:
           kind: choice
           choice_labels:
@@ -85,7 +85,7 @@ entries:
       - text: 爱之池
       - control:
           kind: reset_colour
-      - text: "。\n观光客可会大老远来祈求运势哩～\n小哥要不要也去看看哩？"
+      - text: "。\n观光客可会大老远来祈求运势哩～\n小姐姐要不要也去看看哩？"
   talk02:
     attributes: Npc_SouthernVillage010
     contents:
@@ -112,7 +112,7 @@ entries:
       - text: 爱之池
       - control:
           kind: reset_colour
-      - text: "哩～\n不过，小哥你看起来很受欢迎～\n应该不需要去哩～"
+      - text: "哩～\n不过，小姐姐你看起来很受欢迎～\n应该不需要去哩～"
   talk03:
     attributes: Npc_SouthernVillage010
     contents:
@@ -165,7 +165,7 @@ entries:
           unknown:
             - 3
             - 0
-      - text: 小哥，你可以借我大概
+      - text: 小姐姐，你可以借我大概
       - control:
           kind: set_colour
           colour: red
@@ -213,7 +213,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 哎呀呀，小哥。
+      - text: 哎呀呀，小姐姐。
       - control:
           kind: pause
           length: short
@@ -258,7 +258,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 喂喂，小哥！
+      - text: 喂喂，小姐姐！
       - control:
           kind: pause
           length: short
@@ -271,11 +271,11 @@ entries:
           unknown:
             - 7
             - 0
-      - text: 我赢啦，小哥！
+      - text: 我赢啦，小姐姐！
       - control:
           kind: pause
           length: short
-      - text: "\n大赚一笔啦！\n这都是托小哥的福哩～"
+      - text: "\n大赚一笔啦！\n这都是托小姐姐的福哩～"
       - control:
           kind: pause
           length: short
@@ -295,7 +295,7 @@ entries:
           unknown:
             - 9
             - 0
-      - text: 我输啦，小哥……
+      - text: 我输啦，小姐姐……
       - control:
           kind: pause
           length: long
@@ -312,7 +312,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n小哥你也试一次看看哩～"
+      - text: "\n小姐姐你也试一次看看哩～"
   talk15:
     attributes: Npc_SouthernVillage010
     contents:

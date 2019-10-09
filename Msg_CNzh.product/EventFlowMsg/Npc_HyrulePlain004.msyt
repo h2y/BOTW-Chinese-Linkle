@@ -56,7 +56,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n大哥哥要不要在这间驿站住一晚？"
+      - text: "\n大姐姐要不要在这间驿站住一晚？"
   Talk_0003:
     attributes: Npc_HyrulePlain004
     contents:
@@ -77,7 +77,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n看来大哥哥也很早起呢！"
+      - text: "\n看来大姐姐也很早起呢！"
   Talk_0004:
     attributes: Npc_HyrulePlain004
     contents:

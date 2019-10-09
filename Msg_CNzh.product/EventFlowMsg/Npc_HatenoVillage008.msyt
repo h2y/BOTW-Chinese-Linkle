@@ -79,7 +79,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n大哥哥有好棒的武器～！"
+      - text: "\n大姐姐有好棒的武器～！"
   talk02:
     attributes: Npc_HatenoVillage008
     contents:
@@ -227,11 +227,11 @@ entries:
           unknown:
             - 6
             - 1
-      - text: "大哥哥是从外面的世界来的人吗？\n\n你看起来很会使用弓箭和剑呢。"
+      - text: "大姐姐是从外面的世界来的人吗？\n\n你看起来很会使用弓箭和剑呢。"
       - control:
           kind: pause
           length: long
-      - text: "\n大哥哥你应该很强吧？"
+      - text: "\n大姐姐你应该很强吧？"
       - control:
           kind: choice
           choice_labels:
@@ -530,7 +530,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "各式各样的武器吧～\n\n既然这样，大哥哥你……"
+      - text: "各式各样的武器吧～\n\n既然这样，大姐姐你……"
       - control:
           kind: pause
           length: short
@@ -575,7 +575,7 @@ entries:
           unknown:
             - 0
             - 1
-      - text: 大哥哥！？
+      - text: 大姐姐！？
       - control:
           kind: pause
           length: short
@@ -602,7 +602,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 大哥哥拿的，
+      - text: 大姐姐拿的，
       - control:
           kind: pause
           length: short
@@ -622,7 +622,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 大哥哥拿的，
+      - text: 大姐姐拿的，
       - control:
           kind: pause
           length: short
@@ -642,7 +642,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 大哥哥拿的，
+      - text: 大姐姐拿的，
       - control:
           kind: pause
           length: short
@@ -662,7 +662,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 大哥哥拿的，
+      - text: 大姐姐拿的，
       - control:
           kind: pause
           length: short
@@ -695,7 +695,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 大哥哥拿的，
+      - text: 大姐姐拿的，
       - control:
           kind: pause
           length: short
@@ -715,7 +715,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 大哥哥拿的，
+      - text: 大姐姐拿的，
       - control:
           kind: pause
           length: short
@@ -735,7 +735,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 大哥哥拿的，
+      - text: 大姐姐拿的，
       - control:
           kind: pause
           length: short
@@ -755,7 +755,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 大哥哥拿的，
+      - text: 大姐姐拿的，
       - control:
           kind: pause
           length: short

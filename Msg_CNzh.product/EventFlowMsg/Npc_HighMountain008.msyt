@@ -178,7 +178,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 很适合小哥呢！
+      - text: 很适合小姐姐呢！
   Com_Talk_13:
     attributes: Npc_Kakariko010
     contents:
@@ -484,7 +484,7 @@ entries:
           unknown:
             - 1
             - 10
-      - text: 小哥，真是大手笔呢！
+      - text: 小姐姐，真是大手笔呢！
   talk12:
     attributes: Npc_HighMountain008
     contents:

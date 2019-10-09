@@ -147,7 +147,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "你现在或许反而因此\n捡回了一条小命。\n林克……"
+      - text: "你现在或许反而因此\n捡回了一条小命。\n林可……"
       - control:
           kind: pause
           length: longer
@@ -441,7 +441,7 @@ entries:
       - control:
           kind: auto_advance
           frames: 120
-      - text: "好久不见了，林克……\n\n"
+      - text: "好久不见了，林可……\n\n"
       - control:
           kind: auto_advance
           frames: 200
@@ -1407,7 +1407,7 @@ entries:
           unknown:
             - 9
             - 0
-      - text: "林克啊……\n\n你可一定要把公主……\n\n把100年来独自一人战斗的公主……\n救出来啊……"
+      - text: "林可啊……\n\n你可一定要把公主……\n\n把100年来独自一人战斗的公主……\n救出来啊……"
   Talk05:
     attributes: Npc_Kakariko001
     contents:
@@ -1792,7 +1792,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克啊……
+      - text: 林可啊……
       - control:
           kind: pause
           length: longer

@@ -487,7 +487,7 @@ entries:
           kind: icon
           icon:
             zl: 15
-      - text: "视角会回到林克的背后。\n如果有注视的东西，则朝向那注视之物。"
+      - text: "视角会回到林可的背后。\n如果有注视的东西，则朝向那注视之物。"
   Player_11:
     contents:
       - text: 注视
@@ -510,7 +510,7 @@ entries:
           zero:
             four:
               field_1: 0
-      - text: "想不改变林克的朝向而进行移动时，\n按住"
+      - text: "想不改变林可的朝向而进行移动时，\n按住"
       - control:
           kind: icon
           icon:
@@ -766,58 +766,58 @@ entries:
       - text: "希卡之石的地图可以传送到神庙或塔。\n只要传送到目的地附近，可以缩短移动的时间。"
   Wolf_01:
     contents:
-      - text: 林克狼
+      - text: 林可狼
       - control:
           kind: raw
           zero:
             four:
               field_1: 0
-      - text: "如果希卡感应器上有反应，\n林克狼会指引前往那个地方。"
+      - text: "如果希卡感应器上有反应，\n林可狼会指引前往那个地方。"
   Wolf_02:
     contents:
-      - text: 林克狼
+      - text: 林可狼
       - control:
           kind: raw
           zero:
             four:
               field_1: 0
-      - text: "注视着林克狼下令“稍等”，它会在原地待机。\n待机中喊声“过来”，它会再次跟上来。"
+      - text: "注视着林可狼下令“稍等”，它会在原地待机。\n待机中喊声“过来”，它会再次跟上来。"
   Wolf_03:
     contents:
-      - text: 林克狼
+      - text: 林可狼
       - control:
           kind: raw
           zero:
             four:
               field_1: 0
-      - text: "吹口哨可以将林克狼呼唤回到自己附近。\n再次触碰amiibo也可以令其传送到自己附近。"
+      - text: "吹口哨可以将林可狼呼唤回到自己附近。\n再次触碰amiibo也可以令其传送到自己附近。"
   Wolf_04:
     contents:
-      - text: 林克狼
+      - text: 林可狼
       - control:
           kind: raw
           zero:
             four:
               field_1: 0
-      - text: 普通人是无法看到从异世界召唤而来的林克狼。
+      - text: 普通人是无法看到从异世界召唤而来的林可狼。
   Wolf_05:
     contents:
-      - text: 林克狼
+      - text: 林可狼
       - control:
           kind: raw
           zero:
             four:
               field_1: 0
-      - text: "林克狼会吃下眼前的食物来回复心心。\n如果不想被它吃掉珍贵的食材，记得下令“稍等”让它原地待机吧。"
+      - text: "林可狼会吃下眼前的食物来回复心心。\n如果不想被它吃掉珍贵的食材，记得下令“稍等”让它原地待机吧。"
   Wolf_06:
     contents:
-      - text: 林克狼
+      - text: 林可狼
       - control:
           kind: raw
           zero:
             four:
               field_1: 0
-      - text: 只要林克狼能量未用尽，一天之内可以无限次召唤它出来。
+      - text: 只要林可狼能量未用尽，一天之内可以无限次召唤它出来。
   amiibo_01:
     contents:
       - text: amiibo道具

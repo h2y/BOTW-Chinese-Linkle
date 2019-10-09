@@ -211,7 +211,7 @@ entries:
           unknown:
             - 11
             - 12
-      - text: "要是没有小哥你的话，\n不知道会怎么样……\n"
+      - text: "要是没有小姐姐你的话，\n不知道会怎么样……\n"
       - control:
           kind: sound
           unknown:

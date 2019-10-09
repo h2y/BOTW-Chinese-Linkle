@@ -41,7 +41,7 @@ entries:
   "0012":
     attributes: ""
     contents:
-      - text: 我是林克。
+      - text: 我是林可。
   "0015":
     attributes: ""
     contents:
@@ -147,7 +147,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "林克。\n\n既然你见过了我们的"
+      - text: "林可。\n\n既然你见过了我们的"
       - control:
           kind: set_colour
           colour: blue
@@ -372,7 +372,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: longer
@@ -494,7 +494,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 对不起，林克……
+      - text: 对不起，林可……
       - control:
           kind: pause
           length: longer
@@ -595,7 +595,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克？
+      - text: 林可？
       - control:
           kind: pause
           length: longer
@@ -1210,7 +1210,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克吗……
+      - text: 林可吗……
       - control:
           kind: pause
           length: longer
@@ -1362,7 +1362,7 @@ entries:
           unknown:
             - 6
             - 0
-      - text: "好……\n\n但是在那之前，我有一个问题要问你。\n\n林克……"
+      - text: "好……\n\n但是在那之前，我有一个问题要问你。\n\n林可……"
       - control:
           kind: pause
           length: longer

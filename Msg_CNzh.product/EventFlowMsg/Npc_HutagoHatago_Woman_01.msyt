@@ -396,7 +396,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "海拉鲁的雷似乎容易落在\n金属制品上呢。\n小哥如果身上有带剑什么的，\n可就不太妙了。"
+      - text: "海拉鲁的雷似乎容易落在\n金属制品上呢。\n小姐姐如果身上有带剑什么的，\n可就不太妙了。"
   talk08:
     attributes: Npc_HutagoHatago_Woman_01
     contents:
@@ -450,7 +450,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: "海拉鲁的雷似乎容易落在\n金属制品上呢。\n小哥如果身上有带剑什么的要注意了。"
+      - text: "海拉鲁的雷似乎容易落在\n金属制品上呢。\n小姐姐如果身上有带剑什么的要注意了。"
   talk11:
     attributes: Npc_HutagoHatago_Woman_01
     contents:

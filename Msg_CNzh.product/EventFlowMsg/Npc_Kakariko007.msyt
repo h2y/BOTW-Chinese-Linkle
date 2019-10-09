@@ -119,14 +119,14 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "这不是林克阁下吗？\n我正好要回去宅邸的警备岗位。\n最近"
+      - text: "这不是林可阁下吗？\n我正好要回去宅邸的警备岗位。\n最近"
       - control:
           kind: set_colour
           colour: blue
       - text: 依盖队
       - control:
           kind: reset_colour
-      - text: "的行动愈发频繁，\n还请林克阁下多加小心。"
+      - text: "的行动愈发频繁，\n还请林可阁下多加小心。"
   Talk05:
     attributes: Npc_Kakariko007
     contents:
@@ -144,7 +144,7 @@ entries:
           unknown:
             - 11
             - 12
-      - text: "……林克阁下。\n\n最近心事颇多，\n导致我的睡眠很浅……"
+      - text: "……林可阁下。\n\n最近心事颇多，\n导致我的睡眠很浅……"
       - control:
           kind: pause
           length: longer
@@ -154,7 +154,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "林克阁下如果也累了，\n不妨到旅馆休息如何？"
+      - text: "林可阁下如果也累了，\n不妨到旅馆休息如何？"
   Talk07:
     attributes: Npc_Kakariko007
     contents:
@@ -181,7 +181,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: "林克阁下也在休息吗？\n这是小女珂珂娜和普莉珂。\n这段能跟孩子们聊天的时间，\n对我来说是无价之宝。\n虽然每次讲的故事内容都一样啦。"
+      - text: "林可阁下也在休息吗？\n这是小女珂珂娜和普莉珂。\n这段能跟孩子们聊天的时间，\n对我来说是无价之宝。\n虽然每次讲的故事内容都一样啦。"
       - control:
           kind: choice
           choice_labels:
@@ -371,7 +371,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 啊，林克阁下……
+      - text: 啊，林可阁下……
   Talk19:
     attributes: Npc_Kakariko007
     contents:
@@ -389,7 +389,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: "林克阁下也在休息吗？\n这是小女珂珂娜和普莉珂。\n可惜天公不作美……\n\n这段能跟孩子们聊天的时间，\n对我来说是无价之宝。\n我们每天都像这样一起度过。"
+      - text: "林可阁下也在休息吗？\n这是小女珂珂娜和普莉珂。\n可惜天公不作美……\n\n这段能跟孩子们聊天的时间，\n对我来说是无价之宝。\n我们每天都像这样一起度过。"
       - control:
           kind: pause
           length: long
@@ -405,7 +405,7 @@ entries:
   TerrorArrow:
     attributes: ""
     contents:
-      - text: 林、林克阁下！？
+      - text: 林、林可阁下！？
   TerrorBomb:
     attributes: ""
     contents:

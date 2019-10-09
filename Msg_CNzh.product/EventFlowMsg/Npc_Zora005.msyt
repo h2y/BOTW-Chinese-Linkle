@@ -79,7 +79,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "林克！\n\n"
+      - text: "林可！\n\n"
       - control:
           kind: sound
           unknown:
@@ -114,7 +114,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n往日的过错就不需再追究了卓啦。\n……所以林克，\n\n我现在已经退休不当神父，"
+      - text: "\n往日的过错就不需再追究了卓啦。\n……所以林可，\n\n我现在已经退休不当神父，"
       - control:
           kind: pause
           length: short
@@ -295,7 +295,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n只能静候蒙主宠召……实在不胜唏嘘……\n林克……"
+      - text: "\n只能静候蒙主宠召……实在不胜唏嘘……\n林可……"
       - control:
           kind: pause
           length: short
@@ -354,7 +354,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: longer
@@ -518,7 +518,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "嗯，是林克呀……\n"
+      - text: "嗯，是林可呀……\n"
   talk31:
     attributes: Npc_Zora005
     contents:

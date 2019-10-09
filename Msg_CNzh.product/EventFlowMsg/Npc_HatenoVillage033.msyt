@@ -213,7 +213,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "你是个帅哥呢。\n\n"
+      - text: "你是个美女呢。\n\n"
       - control:
           kind: sound
           unknown:

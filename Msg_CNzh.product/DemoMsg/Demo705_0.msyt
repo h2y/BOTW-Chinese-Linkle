@@ -4,7 +4,7 @@ atr1_unknown: 0
 entries:
   Demo705_0_Text000:
     contents:
-      - text: 噢，好久不见了，兄弟……
+      - text: 噢，好久不见了，妹妹……
       - control:
           kind: pause
           frames: 110

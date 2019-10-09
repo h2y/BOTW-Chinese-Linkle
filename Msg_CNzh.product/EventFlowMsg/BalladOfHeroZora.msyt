@@ -164,7 +164,7 @@ entries:
           unknown:
             - 5
             - 4
-      - text: 林克，如果你有什么难处，
+      - text: 林可，如果你有什么难处，
       - control:
           kind: pause
           frames: 20
@@ -362,7 +362,7 @@ entries:
           unknown:
             - 7
             - 11
-      - text: "是林克啊……你为何到这里来卓啦？\n\n"
+      - text: "是林可啊……你为何到这里来卓啦？\n\n"
       - control:
           kind: sound
           unknown:
@@ -429,7 +429,7 @@ entries:
           unknown:
             - 5
             - 0
-      - text: "哦哦，是林克啊……\n\n"
+      - text: "哦哦，是林可啊……\n\n"
       - control:
           kind: set_colour
           colour: blue
@@ -524,7 +524,7 @@ entries:
           unknown:
             - 7
             - 11
-      - text: 唔！ 林克！
+      - text: 唔！ 林可！
       - control:
           kind: pause
           frames: 20
@@ -680,7 +680,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 哦哦，是林克吗！
+      - text: 哦哦，是林可吗！
       - control:
           kind: pause
           length: longer
@@ -851,7 +851,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "这不是林克阁下吗！\n"
+      - text: "这不是林可阁下吗！\n"
       - control:
           kind: set_colour
           colour: blue
@@ -868,7 +868,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: 话说回来，林克阁下……
+      - text: 话说回来，林可阁下……
       - control:
           kind: pause
           length: long
@@ -999,7 +999,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: "啊啊，林克！你来了啊！\n神兽瓦·露塔一事，真是谢谢你！\n"
+      - text: "啊啊，林可！你来了啊！\n神兽瓦·露塔一事，真是谢谢你！\n"
       - control:
           kind: sound
           unknown:
@@ -1062,7 +1062,7 @@ entries:
           unknown:
             - 0
             - 9
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           frames: 20
@@ -1116,7 +1116,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: 林克！你是最棒的海利亚人，
+      - text: 林可！你是最棒的海利亚人，
       - control:
           kind: pause
           frames: 10
@@ -1150,7 +1150,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: " \n林克，你是为了何事而来呢？"
+      - text: " \n林可，你是为了何事而来呢？"
       - control:
           kind: choice
           choice_labels:
@@ -1168,7 +1168,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: "啊啊，林克！你来了啊！\n神兽瓦·露塔一事，真是谢谢你！\n"
+      - text: "啊啊，林可！你来了啊！\n神兽瓦·露塔一事，真是谢谢你！\n"
       - control:
           kind: sound
           unknown:
@@ -1231,7 +1231,7 @@ entries:
           unknown:
             - 0
             - 9
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           frames: 20
@@ -1285,7 +1285,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: 林克！你是最棒的海利亚人，
+      - text: 林可！你是最棒的海利亚人，
       - control:
           kind: pause
           frames: 10
@@ -1319,7 +1319,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: " \n林克，你是为了何事而来呢？"
+      - text: " \n林可，你是为了何事而来呢？"
       - control:
           kind: choice
           choice_labels:
@@ -1336,7 +1336,7 @@ entries:
           unknown:
             - 10
             - 20
-      - text: "试练？\n……原来是这样啊，林克！\n"
+      - text: "试练？\n……原来是这样啊，林可！\n"
       - control:
           kind: sound
           unknown:
@@ -1396,7 +1396,7 @@ entries:
           unknown:
             - 7
             - 1
-      - text: "林克，你要去挑战试练对吧？\n相信你一定能成功的卓！\n"
+      - text: "林可，你要去挑战试练对吧？\n相信你一定能成功的卓！\n"
       - control:
           kind: sound
           unknown:
@@ -1444,7 +1444,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: "就是你呢，林克！\n\n哎呀，直呼你为林克是不是有点失礼？\n\n"
+      - text: "就是你呢，林可！\n\n哎呀，直呼你为林可是不是有点失礼？\n\n"
       - control:
           kind: sound
           unknown:
@@ -1468,7 +1468,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n抱歉，林克，忘了刚刚的那番话吧！"
+      - text: "\n抱歉，林可，忘了刚刚的那番话吧！"
   Npc_ZoraB001_SD_020:
     attributes: Npc_ZoraB001
     contents:
@@ -1496,7 +1496,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: "哦哦，林克！\n你来啦！"
+      - text: "哦哦，林可！\n你来啦！"
       - control:
           kind: choice
           choice_labels:
@@ -1514,7 +1514,7 @@ entries:
           unknown:
             - 0
             - 11
-      - text: "林克！怎么了？\n还有其他事想问吗？"
+      - text: "林可！怎么了？\n还有其他事想问吗？"
       - control:
           kind: choice
           choice_labels:
@@ -1549,7 +1549,7 @@ entries:
           unknown:
             - 0
             - 11
-      - text: "对了，林克，\n你应该是有什么事才来的吧？"
+      - text: "对了，林可，\n你应该是有什么事才来的吧？"
       - control:
           kind: choice
           choice_labels:
@@ -1566,7 +1566,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克，还有其他想问的事吗？
+      - text: 林可，还有其他想问的事吗？
       - control:
           kind: choice
           choice_labels:

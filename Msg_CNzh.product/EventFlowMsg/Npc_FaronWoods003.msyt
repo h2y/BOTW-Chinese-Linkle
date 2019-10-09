@@ -26,7 +26,7 @@ entries:
           unknown:
             - 11
             - 0
-      - text: 嘿，小哥，
+      - text: 嘿，小姐姐，
       - control:
           kind: pause
           length: short
@@ -106,7 +106,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n\n小哥，你听过这说法吗？"
+      - text: "\n\n小姐姐，你听过这说法吗？"
       - control:
           kind: pause
           length: short

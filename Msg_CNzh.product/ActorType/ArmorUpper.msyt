@@ -34,7 +34,7 @@ entries:
       - text: 旷野之勇者服
   Armor_006_Upper_Desc:
     contents:
-      - text: "卓拉族的历代公主为自己\n将来的丈夫用心定制的铠甲。\n竟然可以攀瀑！"
+      - text: "卓拉族的公主为林可用心定制的铠甲。\n竟然可以攀瀑！"
   Armor_006_Upper_Name:
     contents:
       - text: 卓拉铠甲
@@ -46,7 +46,7 @@ entries:
       - text: 卓拉铠甲
   Armor_008_Upper_Desc:
     contents:
-      - text: "在格鲁德秘密俱乐部里秘密售卖的男性用防具。\n因蕴含冰之力量的蓝宝石加护，\n装备后，会发挥耐热效果。"
+      - text: "在格鲁德秘密俱乐部里秘密售卖的女性用防具。\n因蕴含冰之力量的蓝宝石加护，\n装备后，会发挥耐热效果。"
   Armor_008_Upper_Name:
     contents:
       - text: 热沙护肩
@@ -124,7 +124,7 @@ entries:
       - text: 旷野之勇者服
   Armor_040_Upper_Desc:
     contents:
-      - text: "在格鲁德秘密俱乐部里售卖的男性用防具。\n因蓝宝石的加护，会发挥耐热效果。\n通过大精灵的力量，能使防御力提高1级。"
+      - text: "在格鲁德秘密俱乐部里售卖的女性用防具。\n因蓝宝石的加护，会发挥耐热效果。\n通过大精灵的力量，能使防御力提高1级。"
   Armor_040_Upper_Name:
     contents:
       - text: 热沙护肩
@@ -196,19 +196,19 @@ entries:
       - text: 卓拉铠甲
   Armor_065_Upper_Desc:
     contents:
-      - text: "在格鲁德秘密俱乐部里售卖的男性用防具。\n因蓝宝石的加护，会发挥耐热效果。\n通过大精灵的力量，能使防御力提高2级。"
+      - text: "在格鲁德秘密俱乐部里售卖的女性用防具。\n因蓝宝石的加护，会发挥耐热效果。\n通过大精灵的力量，能使防御力提高2级。"
   Armor_065_Upper_Name:
     contents:
       - text: 热沙护肩
   Armor_066_Upper_Desc:
     contents:
-      - text: "在格鲁德秘密俱乐部里售卖的男性用防具。\n因蓝宝石的加护，会发挥耐热效果。\n通过大精灵的力量，能使防御力提高3级。"
+      - text: "在格鲁德秘密俱乐部里售卖的女性用防具。\n因蓝宝石的加护，会发挥耐热效果。\n通过大精灵的力量，能使防御力提高3级。"
   Armor_066_Upper_Name:
     contents:
       - text: 热沙护肩
   Armor_067_Upper_Desc:
     contents:
-      - text: "在格鲁德秘密俱乐部里售卖的男性用防具。\n因蓝宝石的加护，会发挥耐热效果。\n通过大精灵的力量，能使防御力提高到最高等级。"
+      - text: "在格鲁德秘密俱乐部里售卖的女性用防具。\n因蓝宝石的加护，会发挥耐热效果。\n通过大精灵的力量，能使防御力提高到最高等级。"
   Armor_067_Upper_Name:
     contents:
       - text: 热沙护肩
@@ -460,7 +460,7 @@ entries:
       - text: 幻影铠甲
   Armor_174_Upper_Desc:
     contents:
-      - text: "向往成为精灵的男子所爱穿的衣服。\n好像对于那个男子来说，绿色是精灵的象征。\n貌似这样的物品并非轻易就能得到。"
+      - text: "向往成为精灵的女子所爱穿的衣服。\n好像对于那个女生来说，绿色是精灵的象征。\n貌似这样的物品并非轻易就能得到。"
   Armor_174_Upper_Name:
     contents:
       - text: 汀空的衣服

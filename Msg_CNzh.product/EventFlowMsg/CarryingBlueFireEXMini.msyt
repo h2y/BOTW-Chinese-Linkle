@@ -118,7 +118,7 @@ entries:
           unknown:
             - 0
             - 9
-      - text: 我说林克啊，
+      - text: 我说林可啊，
       - control:
           kind: pause
           length: short
@@ -153,7 +153,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "林克你怎么了，\n感觉不太对劲啊？\n该不会是"
+      - text: "林可你怎么了，\n感觉不太对劲啊？\n该不会是"
       - control:
           kind: pause
           length: short
@@ -619,7 +619,7 @@ entries:
           unknown:
             - 0
             - 12
-      - text: 我说，林克……
+      - text: 我说，林可……
       - control:
           kind: pause
           length: short
@@ -659,7 +659,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克，谢谢你！
+      - text: 林可，谢谢你！
       - control:
           kind: pause
           length: short
@@ -1177,7 +1177,7 @@ entries:
           unknown:
             - 0
             - 1
-      - text: 话说林克……
+      - text: 话说林可……
       - control:
           kind: pause
           length: short
@@ -2022,7 +2022,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: 来了啊，林克！
+      - text: 来了啊，林可！
       - control:
           kind: text_size
           percent: 100
@@ -2060,7 +2060,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n因为林克你才启动的……"
+      - text: "\n因为林可你才启动的……"
       - control:
           kind: text_size
           percent: 100
@@ -2070,7 +2070,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克，
+      - text: 林可，
       - control:
           kind: pause
           length: short

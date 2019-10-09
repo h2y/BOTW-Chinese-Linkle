@@ -19,7 +19,7 @@ entries:
       - control:
           kind: animation
           name: CustomApproach02
-      - text: 林克！使用电箭！
+      - text: 林可！使用电箭！
   Approach_03:
     contents:
       - control:
@@ -55,7 +55,7 @@ entries:
       - control:
           kind: animation
           name: CustomJump03
-      - text: 跳上去，林克！！
+      - text: 跳上去，林可！！
   Jump_04:
     contents:
       - control:
@@ -121,7 +121,7 @@ entries:
       - control:
           kind: animation
           name: CustomRestart00
-      - text: 林克！我们上！
+      - text: 林可！我们上！
   Restart_01:
     contents:
       - control:
@@ -181,7 +181,7 @@ entries:
       - control:
           kind: animation
           name: CustomReturn05
-      - text: 你没事吧，林克？
+      - text: 你没事吧，林可？
   Return_06:
     contents:
       - control:
@@ -193,43 +193,43 @@ entries:
       - control:
           kind: animation
           name: CustomReturn07
-      - text: 你没事吧，林克！
+      - text: 你没事吧，林可！
   Success_00:
     contents:
       - control:
           kind: animation
           name: CustomSuccess00
-      - text: 林克！你最棒了！！
+      - text: 林可！你最棒了！！
   Success_01:
     contents:
       - control:
           kind: animation
           name: CustomSuccess01
-      - text: 林克！你成功了！！
+      - text: 林可！你成功了！！
   Success_02:
     contents:
       - control:
           kind: animation
           name: CustomSuccess02
-      - text: 林克！好样的！！
+      - text: 林可！好样的！！
   Success_03:
     contents:
       - control:
           kind: animation
           name: CustomSuccess03
-      - text: 林克！你好厉害！！
+      - text: 林可！你好厉害！！
   Success_04:
     contents:
       - control:
           kind: animation
           name: CustomSuccess04
-      - text: 很好！林克！！
+      - text: 很好！林可！！
   Worry_00:
     contents:
       - control:
           kind: animation
           name: CustomWorry00
-      - text: 你没事吧，林克？
+      - text: 你没事吧，林可？
   Worry_01:
     contents:
       - control:
