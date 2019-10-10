@@ -296,7 +296,7 @@ entries:
           unknown:
             - 5
             - 16
-      - text: 我没什么要说的哦，冒险者先生。
+      - text: 我没什么要说的哦，冒险者女士。
       - control:
           kind: pause
           length: short

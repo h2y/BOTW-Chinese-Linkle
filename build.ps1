@@ -1,3 +1,4 @@
+mkdir dist -Force
 cd dist
 rm * -Force -Recurse
 

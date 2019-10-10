@@ -123,7 +123,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n林可先生。"
+      - text: "\n林可女士。"
   Talk03:
     attributes: Npc_Assassin_007
     contents:

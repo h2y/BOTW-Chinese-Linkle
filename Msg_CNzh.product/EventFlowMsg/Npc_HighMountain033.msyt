@@ -22,7 +22,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n旅行者先生？"
+      - text: "\n旅行者？"
       - control:
           kind: pause
           length: long

@@ -201,7 +201,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 嗨，可爱的沃伊先生。
+      - text: 嗨，可爱的女士。
   talk11:
     attributes: Npc_OasisGoddess
     contents:

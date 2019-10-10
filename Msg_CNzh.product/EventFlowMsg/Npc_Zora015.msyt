@@ -147,7 +147,7 @@ entries:
           unknown:
             - 0
             - 11
-      - text: 林可先生！
+      - text: 林可女士！
       - control:
           kind: pause
           length: longer
@@ -191,7 +191,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林可先生。
+      - text: 林可女士。
   talk05:
     attributes: Npc_Zora015
     contents:
@@ -244,7 +244,7 @@ entries:
           unknown:
             - 0
             - 1
-      - text: "林可先生，雨停了呢……\n\n"
+      - text: "林可女士，雨停了呢……\n\n"
       - control:
           kind: sound
           unknown:

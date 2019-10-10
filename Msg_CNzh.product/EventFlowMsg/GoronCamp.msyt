@@ -458,7 +458,7 @@ entries:
       - control:
           kind: text_size
           percent: 80
-      - text: ……先生……
+      - text: ……女士……
       - control:
           kind: raw
           zero:
